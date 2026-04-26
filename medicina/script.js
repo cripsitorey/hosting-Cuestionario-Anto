@@ -14,7 +14,15 @@ let globalTimerInterval = null;
 let categoryStats = {}; 
 
 async function inicializarCuestionario() {
-    const archivos = ['data/cardiaco.json','data/respiratorio.json','data/calculos.json','data/radiologia.json','data/ekg.json'];
+    // Para agregar nuevos JSON, simplemente añade la ruta del archivo a este array.
+    const archivos = [
+        'data/cardiaco.json',
+        'data/respiratorio.json',
+        'data/calculos.json',
+        'data/radiologia.json',
+        'data/ekg.json',
+        'data/fisiologia.json'
+    ];
     try {
         const promesas = archivos.map(url => fetch(url).then(async res => res.ok ? await res.json() : null).catch(() => null));
         const resultados = await Promise.all(promesas);
@@ -35,8 +43,22 @@ function updateMasteryUI() {
     if (!container) return;
     container.innerHTML = '';
     
-    const catLabels = {cardiaco:'Cardíaco', respiratorio:'Respiratorio', calculo:'Cálculos', radiologia:'Radiología', ekg:'EKG'};
-    const colors = {cardiaco: 'var(--accent)', respiratorio: 'var(--accent2)', calculo: 'var(--warn)', radiologia: '#b48cff', ekg: '#ffc107'};
+    const catLabels = {
+        cardiaco: 'Cardíaco', 
+        respiratorio: 'Respiratorio', 
+        calculo: 'Cálculos', 
+        radiologia: 'Radiología', 
+        ekg: 'EKG',
+        fisiologia: 'Fisiología'
+    };
+    const colors = {
+        cardiaco: 'var(--accent)', 
+        respiratorio: 'var(--accent2)', 
+        calculo: 'var(--warn)', 
+        radiologia: '#b48cff', 
+        ekg: '#ffc107',
+        fisiologia: '#4ade80' // Color verde designado para fisiología
+    };
 
     Object.keys(categoryStats).forEach(cat => {
         const stats = categoryStats[cat];
@@ -209,15 +231,25 @@ function showSummary() {
     summary.style.display = 'block';
     report.innerHTML = '';
 
+    const catLabels = {
+        cardiaco: 'Cardíaco', 
+        respiratorio: 'Respiratorio', 
+        calculo: 'Cálculos', 
+        radiologia: 'Radiología', 
+        ekg: 'EKG',
+        fisiologia: 'Fisiología'
+    };
+
     Object.keys(categoryStats).forEach(cat => {
         const s = categoryStats[cat];
         if (s.total === 0) return;
         const pct = (s.correct / s.total) * 100;
         let advice = pct >= 90 ? "Dominio experto. Mantén el repaso." : pct >= 70 ? "Buen nivel. Revisa fallas específicas." : "Nivel crítico. Refuerza bibliografía base.";
+        const catName = catLabels[cat] || cat; // Para usar el nombre formateado
 
         report.innerHTML += `
             <div class="diag-item">
-                <span class="diag-category">${cat} (${Math.round(pct)}%)</span>
+                <span class="diag-category">${catName} (${Math.round(pct)}%)</span>
                 <p>${advice}</p>
             </div>`;
     });
