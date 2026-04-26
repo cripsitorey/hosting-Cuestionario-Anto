@@ -9,7 +9,7 @@
         "Bronquios principales",
         "Bronquiolos terminales"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La tráquea es la principal vía aérea conductora inicial, clasificada como generación cero.",
       "hint": "Es la estructura previa a la bifurcación principal."
     },
@@ -22,7 +22,7 @@
         "23",
         "25"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El árbol respiratorio se bifurca progresivamente hasta alcanzar 23 generaciones.",
       "hint": "Es un número impar mayor a 20."
     },
@@ -35,7 +35,7 @@
         "Músculo esquelético",
         "Líquido pleural"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al carecer de cartílago desde la undécima generación, requieren presión transmural favorable para no colapsar.",
       "hint": "Relacionado con la diferencia de presiones en la pared."
     },
@@ -48,7 +48,7 @@
         "Neumocitos tipo I",
         "Macrófagos alveolares"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El epitelio ciliado junto con el moco actúan como barrera física para limpiar la vía aérea.",
       "hint": "Tienen proyecciones móviles."
     },
@@ -61,7 +61,7 @@
         "Broncodilatación",
         "Inhibición de la secreción mucosa"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Las neuronas colinérgicas activan receptores muscarínicos provocando constricción de las vías.",
       "hint": "Efecto colinérgico típico."
     },
@@ -74,7 +74,7 @@
         "Tráquea",
         "Bronquios lobares"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Los bronquiolos respiratorios son las primeras estructuras con alvéolos en sus paredes.",
       "hint": "Suceden a los bronquiolos terminales."
     },
@@ -87,7 +87,7 @@
         "200 micrómetros",
         "500 micrómetros"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Cada alvéolo mide cerca de 200 micrómetros de diámetro.",
       "hint": "Doscientas unidades métricas."
     },
@@ -100,7 +100,7 @@
         "Neumocitos tipo II",
         "Fibroblastos"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Las células tipo I son escamosas planas ideales para el intercambio gaseoso.",
       "hint": "Forman el epitelio escamoso."
     },
@@ -113,7 +113,7 @@
         "Mayor en la base",
         "Solo en los hilios"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Por efecto de la gravedad el flujo es menor en la parte superior incrementando hacia las bases.",
       "hint": "La gravedad atrae la sangre hacia abajo."
     },
@@ -126,7 +126,7 @@
         "Broncodilatación simpática",
         "Secreción de surfactante"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La resistencia de las arteriolas pulmonares se altera vasoconstricción hipóxica para regular el flujo.",
       "hint": "Cambios en el tono de los vasos sanguíneos."
     },
@@ -139,7 +139,7 @@
         "Circulación bronquial",
         "Circulación linfática"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Las arterias bronquiales suministran sangre oxigenada al tejido de las vías conductoras.",
       "hint": "Lleva el nombre de los conductos a los que irriga."
     },
@@ -152,7 +152,7 @@
         "2400 ml",
         "3000 ml"
       ],
-      "ans": 4,
+      "ans": 3,
       "just": "El VRI es el volumen máximo inspirable tras un volumen corriente normal equivale a 3000 ml.",
       "hint": "Es el volumen inspiratorio más grande."
     },
@@ -165,7 +165,7 @@
         "Capacidad vital menos Volumen corriente",
         "Volumen de reserva espiratoria más Volumen residual"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La suma del volumen corriente 500 ml más el VRI 3000 ml da una CI de 3500 ml.",
       "hint": "Mide todo lo que puedes inspirar."
     },
@@ -178,7 +178,7 @@
         "Capacidad Residual Funcional",
         "Capacidad Pulmonar Total"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "La Capacidad Residual Funcional CRF suma VRE y VR promediando 2400 ml.",
       "hint": "Aire que queda en pulmones tras espiración normal."
     },
@@ -191,7 +191,7 @@
         "4700 ml",
         "5900 ml"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "La CV suma CI 3500 ml más VRE 1200 ml totalizando 4700 ml.",
       "hint": "Es la CPT menos el volumen residual."
     },
@@ -204,7 +204,7 @@
         "Volumen de reserva",
         "Capacidad residual"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Aproximadamente 150 ml llenan las vías conductoras conformando el espacio muerto anatómico.",
       "hint": "Aire atrapado anatómicamente."
     },
@@ -217,7 +217,7 @@
         "Excluye la tráquea",
         "Solo existe en enfermedades"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Añade al espacio anatómico aquellos alvéolos con defecto de perfusión donde no ocurre intercambio.",
       "hint": "Suma el espacio alveolar disfuncional."
     },
@@ -230,7 +230,7 @@
         "Nitrógeno",
         "Monóxido de carbono"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Se utilizan las presiones parciales de CO2 arterial y espirado mixto.",
       "hint": "Gas de desecho celular."
     },
@@ -243,7 +243,7 @@
         "7700 ml/min",
         "8400 ml/min"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Multiplicando 550 ml por 14 respiraciones por minuto resulta en 7700 ml/min.",
       "hint": "550 por 14."
     },
@@ -256,7 +256,7 @@
         "FEV2",
         "CRF"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El FEV1 Forced Expiratory Volume in 1 second mide el volumen inicial de la espiración forzada.",
       "hint": "Tiene un 1 en sus siglas."
     },
@@ -269,7 +269,7 @@
         "Asma bronquial",
         "EPOC"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "En la fibrosis o restricción ambos caen por igual por lo que la relación FEV1/FVC es normal.",
       "hint": "Como en la fibrosis pulmonar."
     },
@@ -282,7 +282,7 @@
         "Contracción de músculos abdominales",
         "Caída de las costillas"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La inspiración es activa el diafragma se contrae expandiendo la cavidad torácica.",
       "hint": "El diafragma desciende."
     },
@@ -295,7 +295,7 @@
         "Esternocleidomastoideos",
         "Escalenos"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Los abdominales empujan el diafragma arriba los intercostales internos tiran las costillas hacia abajo.",
       "hint": "Músculos del vientre."
     },
@@ -308,7 +308,7 @@
         "Compliance distensibilidad",
         "Tensión superficial"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "La compliance mide la facilidad con la que el pulmón se expande inversamente proporcional a la elastancia.",
       "hint": "Sinónimo de distensibilidad."
     },
@@ -321,7 +321,7 @@
         "La secreción de moco",
         "El volumen residual"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La inspiración requiere superar mayor tensión superficial que la espiración generando curvas distintas.",
       "hint": "Las curvas de inflado desinflado no se superponen."
     },
@@ -334,7 +334,7 @@
         "Disminuye la distensibilidad drásticamente",
         "Se colapsa inmediatamente"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El líquido elimina las fuerzas de tensión superficial aire agua facilitando la expansión.",
       "hint": "No hay gas para crear tensión superficial."
     },
@@ -347,7 +347,7 @@
         "El surfactante alveolar",
         "Los músculos intercostales"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La presión intrapleural negativa resulta de la tracción opuesta del pulmón tórax manteniéndolos unidos.",
       "hint": "Actúa como un vacío o succión."
     },
@@ -360,7 +360,7 @@
         "El tórax se retrae fuertemente",
         "Aumenta la ventilación alveolar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al ingresar aire la presión pleural se iguala a la atmosférica permitiendo el retroceso elástico del pulmón.",
       "hint": "Entrada de aire al espacio pleural."
     },
@@ -373,7 +373,7 @@
         "Es menor",
         "Es nula"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Al estar acoplados sus resistencias se suman haciendo al sistema total menos distensible.",
       "hint": "Dos resortes acoplados son más duros."
     },
@@ -386,7 +386,7 @@
         "Ley de Laplace",
         "Ley de Henry"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "La ley de Laplace P igual 2T/r explica por qué alvéolos pequeños tenderían a colapsarse más rápido.",
       "hint": "Relaciona tensión presión radio."
     },
@@ -399,7 +399,7 @@
         "Aumentar la difusión de CO2",
         "Prevenir la evaporación del agua"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El surfactante se concentra más en radios menores evitando que colapsen hacia los alvéolos grandes.",
       "hint": "Estabiliza los tamaños alveolares."
     },
@@ -412,7 +412,7 @@
         "Ley de Henry",
         "Ley de Fick"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "La ley de Boyle establece la relación inversa entre presión volumen P1V1 igual P2V2.",
       "hint": "Presión y volumen."
     },
@@ -425,7 +425,7 @@
         "Multiplicar por la temperatura",
         "Dividir por la fracción inspirada"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al entrar a la vía aérea el aire se satura de agua restando 47 mmHg a la presión total disponible.",
       "hint": "Considera la humedad del tracto."
     },
@@ -438,7 +438,7 @@
         "150 mmHg",
         "160 mmHg"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El aire alveolar equilibra una PO2 entre 100 y 105 mmHg tras el intercambio gaseoso continuo.",
       "hint": "Menor que en la tráquea mayor que en sangre venosa."
     },
@@ -451,7 +451,7 @@
         "La presión es inversa al volumen",
         "Los gases no se disuelven en plasma"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "Cx igual Px multiplicado por Solubilidad determina cuánto gas se disuelve físicamente en la sangre.",
       "hint": "Relaciona concentración y presión parcial."
     },
@@ -464,7 +464,7 @@
         "PO2 150 PCO2 0",
         "PO2 60 PCO2 50"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La sangre venosa trae bajos niveles de O2 40 mmHg altos de CO2 46 mmHg.",
       "hint": "Valores típicos pre oxigenación."
     },
@@ -477,7 +477,7 @@
         "Osmosis celular",
         "Filtración capilar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Los gases cruzan la membrana por difusión simple dependiente de la Ley de Fick.",
       "hint": "Paso pasivo de gases."
     },
@@ -490,7 +490,7 @@
         "Grosor de la membrana",
         "Tensión superficial"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Un gas difunde más rápido si es muy soluble si tiene menor peso molecular.",
       "hint": "Características intrínsecas del gas."
     },
@@ -503,7 +503,7 @@
         "Nunca se equilibra",
         "Depende del gradiente de CO2"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La difusión es muy eficiente logrando el equilibrio mucho antes de que el eritrocito abandone el capilar.",
       "hint": "Hay un tiempo de reserva capilar."
     },
@@ -516,7 +516,7 @@
         "Aumenta la distancia física requerida para la difusión",
         "Altera el peso molecular del gas"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "La Ley de Fick indica que a mayor grosor de barrera menor es la tasa de difusión.",
       "hint": "Capa más gruesa retarda el paso."
     },
@@ -529,7 +529,7 @@
         "Porque la barrera alveolar es impermeable",
         "Porque el CO2 inhibe el paso de O2"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Una vez equilibrado el gas en el capilar la transferencia adicional requiere sangre nueva perfusión.",
       "hint": "Depende de la llegada de sangre fresca."
     },
@@ -542,7 +542,7 @@
         "250 ml/min",
         "1000 ml/min"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "El bajo coeficiente de solubilidad permite llevar apenas 15 ml insuficientes para los 250 ml que el cuerpo requiere.",
       "hint": "Una fracción minúscula."
     },
@@ -555,7 +555,7 @@
         "Hemoglobina",
         "Fibrinógeno"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "La hemoglobina empaquetada en los eritrocitos aumenta exponencialmente la capacidad de transporte de oxígeno.",
       "hint": "Pigmento rojo celular."
     },
@@ -568,7 +568,7 @@
         "Tres",
         "Cuatro"
       ],
-      "ans": 4,
+      "ans": 3,
       "just": "Consta de cuatro subunidades cada una con un grupo hemo capaz de unir una molécula de O2.",
       "hint": "Igual al número de cadenas polipeptídicas."
     },
@@ -581,7 +581,7 @@
         "Cuatro cadenas beta",
         "Una cadena alfa tres cadenas beta"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La HbA se compone de dos cadenas alfa dos cadenas beta estructurando el tetrámero maduro.",
       "hint": "La forma adulta predominante."
     },
@@ -594,7 +594,7 @@
         "Estado elemental Fe0",
         "Cualquier estado oxidativo"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "El O2 se une reversiblemente solo al hierro en estado ferroso si se oxida a férrico forma metahemoglobina inactiva.",
       "hint": "Valencia +2."
     },
@@ -607,7 +607,7 @@
         "Tiene solo tres subunidades",
         "Usa hierro férrico"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La HbF posee dos cadenas alfa dos gamma lo que altera su conformación para mayor afinidad por el oxígeno.",
       "hint": "Se designa alfa2 gamma2."
     },
@@ -620,7 +620,7 @@
         "Menor viscosidad sanguínea",
         "Inmunidad pasiva"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al desplazar la curva a la izquierda la HbF capta oxígeno en placentas con PO2 relativamente baja.",
       "hint": "Atrae el oxígeno más fuerte que la madre."
     },
@@ -633,7 +633,7 @@
         "Unión irreversible de CO",
         "Ausencia del grupo hemo"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "Esta mutación puntual altera la solubilidad de la desoxihemoglobina provocando polimerización y deformación celular.",
       "hint": "Valina en lugar de glutamato."
     },
@@ -646,7 +646,7 @@
         "Disminución de la presión arterial",
         "Aumento del volumen plasmático"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Su rigidez y forma pegajosa bloquean capilares y sufren ruptura prematura.",
       "hint": "Producen microinfartos."
     },
@@ -659,7 +659,7 @@
         "Por la viscosidad plasmática",
         "Por la acción del surfactante"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La unión de una molécula de O2 incrementa la afinidad de las subunidades restantes facilitando cargas sucesivas.",
       "hint": "El trabajo en equipo de los sitios de unión."
     },
@@ -672,7 +672,7 @@
         "La presión capilar media",
         "El volumen espirado forzado a los 50 milisegundos"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "Es el marcador estándar de la afinidad de la hemoglobina valores mayores indican menor afinidad.",
       "hint": "Presión a la mitad de capacidad."
     },
@@ -685,7 +685,7 @@
         "Impide la liberación de O2",
         "Aumenta la saturación a PO2 bajas"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al reducir la afinidad el O2 se libera más fácilmente donde se necesita como en el músculo activo.",
       "hint": "Favorece la entrega tisular."
     },
@@ -698,7 +698,7 @@
         "Aumento de temperatura",
         "Presencia de Hemoglobina F"
       ],
-      "ans": 4,
+      "ans": 3,
       "just": "La HbF tiene mayor afinidad desplazando la curva a la izquierda mientras que los demás promueven la descarga de O2.",
       "hint": "La fetal atrapa el oxígeno."
     },
@@ -711,7 +711,7 @@
         "Bloquea la entrada de CO2",
         "Destruye el grupo hemo"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El 2,3-DPG estabiliza la forma desoxigenada bajando la afinidad y favoreciendo la entrega de O2 tisular.",
       "hint": "Aumenta en hipoxia para mejorar oxigenación tisular."
     },
@@ -724,7 +724,7 @@
         "Se vuelve lineal",
         "Se aplana en su porción superior"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El efecto Bohr pH/PCO2 y el aumento de temperatura confabulan para descargar la máxima cantidad de O2 posible.",
       "hint": "El tejido clama por oxígeno."
     },
@@ -737,7 +737,7 @@
         "Induce broncoespasmo severo",
         "Destruye los alvéolos"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Forma carboxihemoglobina impidiendo el transporte de O2 y además desplaza la curva remanente a la izquierda.",
       "hint": "Compite exitosamente por el sitio del hierro."
     },
@@ -750,7 +750,7 @@
         "Aumenta la P50 masivamente",
         "No altera la afinidad remanente"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Además de restar capacidad el CO bloquea la transición alostérica reteniendo el poco O2 disponible en la Hb.",
       "hint": "El O2 queda atrapado en la sangre."
     },
@@ -763,7 +763,7 @@
         "Eritropoyetina",
         "Vasopresina"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "La hipoxia activa el factor HIF-1a induciendo síntesis de eritropoyetina para elevar la masa de eritrocitos.",
       "hint": "Estimula la médula ósea."
     },
@@ -776,7 +776,7 @@
         "p53",
         "CREB"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El factor inducible por hipoxia alfa activa la expresión genética de EPO en los fibroblastos renales.",
       "hint": "Hypoxia Inducible Factor."
     },
@@ -789,7 +789,7 @@
         "Médula espinal",
         "Tronco encefálico bulbo y protuberancia"
       ],
-      "ans": 4,
+      "ans": 3,
       "just": "El control involuntario emana del grupo respiratorio medular y los centros pontinos.",
       "hint": "Estructura en la base del cerebro."
     },
@@ -802,7 +802,7 @@
         "Grupo Respiratorio Dorsal",
         "Centro Apnéustico"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El GRD contiene neuronas inspiratorias que envían potenciales de acción vía nervio frénico.",
       "hint": "Dorsal Respiratory Group."
     },
@@ -815,7 +815,7 @@
         "Controlar la inspiración espiración forzada cuando la demanda aumenta",
         "Sintetizar líquido cefalorraquídeo"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Inactivo en reposo se recluta durante el ejercicio para impulsar la espiración activa.",
       "hint": "Actúa en respiración forzada."
     },
@@ -828,7 +828,7 @@
         "Paro respiratorio inmediato",
         "Taquipnea severa superficial"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Prolonga la contracción del diafragma bloqueando el cese inspiratorio normal.",
       "hint": "Respiración agónica."
     },
@@ -841,7 +841,7 @@
         "Activar los músculos abdominales",
         "Sensar quimioquinas"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Envía señales inhibitorias al área inspiratoria regulando la profundidad y secundariamente la frecuencia.",
       "hint": "Pone el freno a la inspiración."
     },
@@ -854,7 +854,7 @@
         "Tálamo",
         "Médula espinal"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Las vías corticoespinales pueden gobernar la motoneurona respiratoria burlando temporalmente el tronco.",
       "hint": "Nivel superior de procesamiento."
     },
@@ -867,7 +867,7 @@
         "Pleura visceral",
         "Membrana alveolar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El CO2 difunde libremente al líquido cefalorraquídeo donde altera el pH mientras que los iones H+ no pueden cruzarla.",
       "hint": "Separa sangre de cerebro."
     },
@@ -880,7 +880,7 @@
         "Porque el LCR tampona el ácido inmediatamente",
         "Porque dependen de la temperatura"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "A diferencia del CO2 lipofílico los protones cargados enfrentan resistencia vascular encefálica.",
       "hint": "Limitación de permeabilidad iónica."
     },
@@ -893,7 +893,7 @@
         "Serotonina",
         "GABA"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "La vía serotoninérgica excita el centro inspiratorio corrigiendo la hipercapnia.",
       "hint": "Relacionada con el ánimo."
     },
@@ -906,7 +906,7 @@
         "Noradrenalina",
         "Óxido nítrico"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El ácido gamma-aminobutírico inhibe el impulso promoviendo la hipoventilación compensatoria.",
       "hint": "Principal inhibidor del SNC."
     },
@@ -919,7 +919,7 @@
         "pH LCR alcalino",
         "Aumento de presión arterial"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "Se reservan como sistema de emergencia ante hipoxia severa cuando la saturación de Hb empieza a caer verticalmente.",
       "hint": "Falta de oxígeno marcada."
     },
@@ -932,7 +932,7 @@
         "Solo los cuerpos carotídeos periféricos",
         "Corteza motora"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Los cuerpos carotídeos responden a caídas del pH arterial protegiendo frente a acidosis metabólica.",
       "hint": "Ubicados en bifurcación de vasos del cuello."
     },
@@ -945,7 +945,7 @@
         "Frénico e intercostales",
         "Óptico y Olfatorio"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Transmiten la quimiocepción carotídea y aórtica al centro respiratorio dorsal.",
       "hint": "Pares craneales 9 y 10."
     },
@@ -958,7 +958,7 @@
         "Alcalosis en el líquido cefalorraquídeo",
         "Acidosis láctica"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Un aumento del pH en LCR activa vías GABAérgicas deprimiendo la ventilación para retener CO2.",
       "hint": "Disminución de la acidez."
     },
@@ -971,7 +971,7 @@
         "El pulmón colapsa",
         "El surfactante desaparece"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "A altos volúmenes el tejido conectivo colágeno alcanza su límite elástico disminuyendo la compliance.",
       "hint": "Pierde flexibilidad al estirarse máximo."
     },
@@ -984,7 +984,7 @@
         "Colesterol",
         "Triglicéridos"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Es un fosfolípido anfipático que interrumpe los puentes de hidrógeno del agua alveolar.",
       "hint": "Es un fosfolípido complejo."
     },
@@ -997,7 +997,7 @@
         "Neumonía bacteriana",
         "Fibrosis quística"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Los prematuros carecen de neumocitos II funcionales requiriendo surfactante intratraqueal para evitar el colapso masivo.",
       "hint": "Falta de maduración pulmonar."
     },
@@ -1010,7 +1010,7 @@
         "Saturación de hemoglobina",
         "Gasto cardíaco"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "VA igual VT menos VD multiplicado por la frecuencia respiratoria.",
       "hint": "Aire que no participa en intercambio."
     },
@@ -1023,7 +1023,7 @@
         "Que la sangre no sirve",
         "Que el CO2 ocupa el 25% restante"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "En reposo los tejidos extraen aproximadamente el 25% del oxígeno dejando una importante reserva.",
       "hint": "Tres cuartas partes ocupadas."
     },
@@ -1036,7 +1036,7 @@
         "Por error espirométrico",
         "Por disolución en plasma"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El espacio muerto anatómico resta 150 ml al Vt efectivo.",
       "hint": "Aire en tubo muerto."
     },
@@ -1049,7 +1049,7 @@
         "Aumenta la PCO2 arterial mejorando perfusión",
         "Aumenta el volumen de reserva"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al bajar el Vt el espacio muerto fijo representa un porcentaje mayor anulando la ventilación útil.",
       "hint": "El espacio muerto gana protagonismo."
     },
@@ -1062,7 +1062,7 @@
         "Muy negativa",
         "Cero absoluto"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El retroceso pulmonar comprime el gas generando presión positiva que expulsa el aire.",
       "hint": "Genera flujo de salida."
     },
@@ -1075,7 +1075,7 @@
         "Aumentaría su volumen",
         "Se llenaría de CO2"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Por tener radio menor generaría más presión expulsando su gas a zonas de menor presión.",
       "hint": "Ley del más fuerte presiona."
     },
@@ -1088,7 +1088,7 @@
         "El volumen residual",
         "El espacio muerto"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Las vías estrechas o colapsables en espiración retardan la salida del flujo.",
       "hint": "Relacionado con la obstrucción."
     },
@@ -1101,7 +1101,7 @@
         "Unido al hemo férrico",
         "En forma de metahemoglobina"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Aunque se menciona la hidratación del CO2 en el LCR sistémicamente viaja como bicarbonato.",
       "hint": "Se hidrata con agua."
     },
@@ -1114,7 +1114,7 @@
         "Que los bronquios se cierran",
         "Que el diafragma se paraliza"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El cociente Ventilación Perfusión se va a infinito si no hay sangre volviéndose espacio muerto.",
       "hint": "Aire sin sangre."
     },
@@ -1127,7 +1127,7 @@
         "Sumar el CO2 venoso",
         "Descartar el nitrógeno"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La presión barométrica corregida se fracciona según el porcentaje del gas específico.",
       "hint": "Aplicar el porcentaje del gas."
     },
@@ -1140,7 +1140,7 @@
         "50%",
         "78%"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La concentración fraccional del O2 es constante a nivel del mar y en altura al 21%.",
       "hint": "Un quinto de la atmósfera."
     },
@@ -1153,7 +1153,7 @@
         "Por reducción drástica en la capacidad de transporte total de O2",
         "Por obstrucción de la vía aérea"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El componente transportador unido a proteína se desploma restando eficacia al intercambio global DL.",
       "hint": "Falta de vagones en el tren sanguíneo."
     },
@@ -1166,7 +1166,7 @@
         "Porque se equilibra rápido requiriendo flujo sanguíneo adicional para transportar más cantidad",
         "Porque el CO2 satura el plasma"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Bajo condiciones normales el O2 satura la sangre mucho antes de salir del capilar dependiendo entonces del gasto cardíaco.",
       "hint": "Depende de cuánta sangre pase."
     },
@@ -1179,7 +1179,7 @@
         "Cerca del hilio",
         "Es idéntico"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "El peso del pulmón aumenta la presión pleural negativa apical expandiendo esos alvéolos permanentemente más.",
       "hint": "Arriba están más jalados."
     },
@@ -1192,7 +1192,7 @@
         "Diferenciar de manera rápida un patrón obstructivo asma de uno restrictivo",
         "Medir la capacidad difusiva"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Permite clasificar patologías el cociente baja en obstrucción y se mantiene en restricción.",
       "hint": "Permite crear patrones diagnósticos."
     },
@@ -1205,7 +1205,7 @@
         "La aurícula izquierda",
         "La arteria pulmonar"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Se convierte en sangre arterial sistémica reingresando al corazón izquierdo.",
       "hint": "Corazón que bombea al cuerpo."
     },
@@ -1218,7 +1218,7 @@
         "Volumen de reserva espiratoria",
         "Capacidad residual funcional"
       ],
-      "ans": 4,
+      "ans": 3,
       "just": "Al incluir el volumen residual en su fórmula requiere técnicas como dilución de helio o pletismografía.",
       "hint": "Contiene aire no exhalable."
     },
@@ -1231,7 +1231,7 @@
         "La mantiene estática",
         "Aumenta la compliance"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Elevan la presión pleural transmitiendo fuerza a los alvéolos para empujar el aire en una espiración forzada.",
       "hint": "Comprime los pulmones."
     },
@@ -1244,7 +1244,7 @@
         "Evaporación de oxígeno",
         "Consumo endotelial excesivo"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Una fracción de sangre bronquial y venas de tebesio elude los alvéolos reduciendo levemente la PO2 final.",
       "hint": "Cortocircuito natural."
     },
@@ -1257,7 +1257,7 @@
         "Exhiben compliance hiper elástica",
         "No poseen histéresis"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al ser un tejido rígido con elastancia alta la pendiente de distensibilidad decae drásticamente.",
       "hint": "Cuesta inflar un globo duro."
     },
@@ -1270,7 +1270,7 @@
         "Los leucocitos",
         "Las plaquetas"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El 98 por ciento viaja confinado y concentrado por las moléculas de hemoglobina intracelular.",
       "hint": "Dentro de la célula roja."
     },
@@ -1283,7 +1283,7 @@
         "Porque baja el pH drásticamente",
         "Porque estimula los músculos respiratorios a relajarse"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "Los quimiorreceptores periféricos detectan oxígeno disuelto no el contenido total en Hb la PO2 sigue siendo normal.",
       "hint": "El radar de O2 no ve la carga del tren."
     },
@@ -1296,7 +1296,7 @@
         "Conducir el potencial de acción inspiratorio principal desde el bulbo hasta el diafragma",
         "Inervar los bronquios parasimpáticamente"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Ejecuta el mandato inspiratorio del Grupo Respiratorio Dorsal contrayendo el músculo diafragmático.",
       "hint": "Nervio motor del diafragma."
     },
@@ -1309,8 +1309,8 @@
         "El aire retenido en el espacio muerto anatómico y fisiológico",
         "El volumen de reserva espiratorio"
       ],
-      "ans": 3,
-      "just": "Al usar el (Vt menos VD) se retira el aire no funcional del cómputo ventilatorio efectivo.",
+      "ans": 2,
+      "just": "Al usar el (Vt menos VD) se retira el aire no functional del cómputo ventilatorio efectivo.",
       "hint": "El aire inútil para intercambio."
     },
     {
@@ -1322,7 +1322,7 @@
         "La disminución del pH reduce la afinidad de la hemoglobina por el oxígeno",
         "El monóxido de carbono desplaza al oxígeno de su sitio de unión"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "El efecto Haldane explica que la oxigenación de la sangre en los pulmones desplaza el dióxido de carbono de la hemoglobina facilitando su exhalación puesto que la oxihemoglobina es un ácido más fuerte.",
       "hint": "Es el contraparte del efecto Bohr a nivel pulmonar."
     },
@@ -1335,7 +1335,7 @@
         "Convertido en ion bicarbonato dentro del eritrocito",
         "Unido al grupo hemo de la hemoglobina"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Aproximadamente el setenta por ciento del dióxido de carbono se transporta como ion bicarbonato gracias a la acción de la anhidrasa carbónica dentro del glóbulo rojo.",
       "hint": "Requiere una enzima específica intracelular para formarse rápidamente."
     },
@@ -1348,7 +1348,7 @@
         "Entrada de iones cloruro",
         "Salida de iones calcio"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El desplazamiento de cloruro o fenómeno de Hamburger ocurre cuando el bicarbonato sale del eritrocito en intercambio directo por un ion cloruro que ingresa a la célula.",
       "hint": "Se conoce también como desplazamiento de Hamburger."
     },
@@ -1361,7 +1361,7 @@
         "Es mayor en la base pulmonar debido al aumento de la ventilación",
         "Es cero en la zona media por colapso capilar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "En el ápice pulmonar la perfusión disminuye mucho más rápido que la ventilación por efecto gravitacional resultando en un cociente ventilación perfusión elevado cercano a tres.",
       "hint": "La sangre pesa más que el aire por lo tanto cae hacia las bases."
     },
@@ -1374,7 +1374,7 @@
         "La presión venosa supera a la presión alveolar",
         "El flujo sanguíneo es continuo durante todo el ciclo cardíaco"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "En la Zona 1 la presión del aire alveolar es mayor que la presión arterial colapsando los vasos originando espacio muerto alveolar fisiológico.",
       "hint": "El aire aplasta al vaso sanguíneo."
     },
@@ -1387,7 +1387,7 @@
         "La hipoventilación alveolar fisiológica",
         "El aumento del espacio muerto anatómico"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "Existe un gradiente normal pequeño debido a que parte de la sangre venosa bronquial drena directamente en las venas pulmonares oxigenadas creando un cortocircuito fisiológico.",
       "hint": "Sangre desoxigenada que se mezcla directamente con la oxigenada."
     },
@@ -1400,7 +1400,7 @@
         "Monóxido de carbono",
         "Dióxido de carbono"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El monóxido de carbono tiene una afinidad tan alta por la hemoglobina que su presión parcial capilar se mantiene cercana a cero siendo ideal para evaluar la integridad de la membrana alveolocapilar.",
       "hint": "Es el mismo gas tóxico que desplaza al oxígeno en incendios."
     },
@@ -1413,7 +1413,7 @@
         "Limitado por ventilación",
         "Independiente del gasto cardíaco"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El óxido nitroso no se une a la hemoglobina por lo tanto su presión parcial se equilibra rápidamente con la alveolar dependiendo únicamente del flujo sanguíneo para aumentar su transferencia.",
       "hint": "Alcanza el equilibrio de presiones casi inmediatamente."
     },
@@ -1426,7 +1426,7 @@
         "Receptores yuxtacapilares",
         "Corpúsculos de Pacini"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Los receptores yuxtacapilares o receptores J se ubican en el intersticio alveolar activándose ante el engrosamiento por líquido generando sensación de disnea y respiración rápida superficial.",
       "hint": "Están justo al lado de los capilares alveolares."
     },
@@ -1439,7 +1439,7 @@
         "Aumentar la frecuencia cardíaca durante la inspiración",
         "Provocar broncoconstricción refleja"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Los receptores de estiramiento en el músculo liso bronquial envían señales por el nervio vago para terminar la inspiración protegiendo al pulmón de un inflado excesivo.",
       "hint": "Es un mecanismo de protección contra el estiramiento extremo."
     },
@@ -1452,7 +1452,7 @@
         "En los bronquiolos terminales",
         "En los conductos alveolares"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Aunque las vías individuales más pequeñas tienen alta resistencia la enorme cantidad de bronquiolos dispuestos en paralelo hace que la resistencia total mayor se ubique en los bronquios medianos.",
       "hint": "No es ni la vía más grande ni las más diminutas."
     },
@@ -1465,7 +1465,7 @@
         "El volumen pulmonar no afecta la resistencia de la vía aérea",
         "La resistencia es máxima a la capacidad pulmonar total"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al aumentar el volumen pulmonar la tracción radial del parénquima tira de las vías respiratorias manteniéndolas abiertas lo cual reduce significativamente la resistencia al flujo.",
       "hint": "Los pulmones inflados estiran y abren los conductos internos."
     },
@@ -1478,7 +1478,7 @@
         "La igualación de presiones entre los pulmones derecho e izquierdo",
         "El equilibrio entre la presión hidrostática y oncótica pulmonar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Durante la espiración forzada la presión intrapleural se vuelve positiva comprimiendo las vías respiratorias en el punto donde la presión interior iguala a la pleural generando colapso dinámico.",
       "hint": "Es el punto crítico de compresión de la vía aérea."
     },
@@ -1491,7 +1491,7 @@
         "Fosfatasa alcalina",
         "Creatina quinasa"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El pulmón tiene una importante función endocrina metabólica destacando la enzima convertidora de angiotensina que transforma la angiotensina uno en angiotensina dos activa.",
       "hint": "Es fundamental en el sistema renina angiotensina."
     },
@@ -1504,7 +1504,7 @@
         "Aumento local del espacio muerto",
         "Broncodilatación refleja"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La vasoconstricción pulmonar hipóxica desvía la sangre de las zonas mal ventiladas hacia regiones pulmonares con mejor oxigenación optimizando el intercambio gaseoso general.",
       "hint": "El pulmón redistribuye la sangre hacia donde sí hay oxígeno."
     },
@@ -1517,7 +1517,7 @@
         "Baja presión y baja resistencia",
         "Baja presión y alta resistencia"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El circuito pulmonar maneja la totalidad del gasto cardíaco con presiones mucho menores que las sistémicas gracias a que sus vasos son extremadamente distensibles y de baja resistencia.",
       "hint": "El ventrículo derecho realiza menos esfuerzo de bombeo."
     },
@@ -1530,7 +1530,7 @@
         "Flujo espiratorio máximo",
         "Volumen corriente"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "En las enfermedades restrictivas la capacidad vital forzada está disminuida debido a la incapacidad del pulmón para expandirse adecuadamente limitando el volumen total movilizado.",
       "hint": "Refleja la cantidad total de aire que el pulmón puede manejar."
     },
@@ -1543,7 +1543,7 @@
         "El contacto con el líquido amniótico",
         "La distensión gástrica"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La oclusión del cordón umbilical provoca asfixia transitoria bajando el oxígeno y aumentando el dióxido de carbono lo que estimula intensamente los quimiorreceptores centrales y periféricos.",
       "hint": "Es la respuesta fisiológica a la falta de intercambio placentario."
     },
@@ -1556,7 +1556,7 @@
         "Cierre de las venas pulmonares",
         "Apertura del conducto arterioso"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al expandirse los pulmones con aire el oxígeno alveolar causa vasodilatación pulmonar reduciendo la resistencia y permitiendo que la sangre fluya hacia los capilares pulmonares en lugar de desviarse.",
       "hint": "El oxígeno es un potente vasodilatador en el lecho pulmonar."
     },
@@ -1569,7 +1569,7 @@
         "Bradicinina",
         "Insulina"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El endotelio pulmonar inactiva sustancias vasoactivas como la bradicinina y la serotonina regulando su concentración sistémica siendo parte de la función de filtro metabólico pulmonar.",
       "hint": "Es un potente péptido vasodilatador relacionado con el dolor y la inflamación."
     },
@@ -1582,7 +1582,7 @@
         "Aumento inmediato del hematocrito",
         "Disminución del gasto cardíaco"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La caída de la presión parcial de oxígeno ambiental estimula los quimiorreceptores carotídeos desencadenando hiperventilación para intentar captar más oxígeno induciendo alcalosis respiratoria.",
       "hint": "El cuerpo intenta respirar más rápido ante la falta de aire."
     },
@@ -1595,7 +1595,7 @@
         "Excreción de bicarbonato en la orina",
         "Retención masiva de sodio"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Para compensar el aumento del pH sanguíneo los riñones reducen la reabsorción de bicarbonato excretándolo en la orina disminuyendo así el exceso de bases y normalizando el pH.",
       "hint": "El riñón se deshace de la base para contrarrestar la pérdida del ácido volátil."
     },
@@ -1608,7 +1608,7 @@
         "Destrucción de la anhidrasa carbónica",
         "Cambio de hemoglobina adulta a hemoglobina fetal"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "El aumento del difosfoglicerato intraeritrocitario disminuye la afinidad de la hemoglobina facilitando la liberación del poco oxígeno disponible hacia las células metabolicamente activas.",
       "hint": "Molécula que estabiliza la forma tensa desoxigenada de la hemoglobina."
     },
@@ -1621,7 +1621,7 @@
         "El nitrógeno oxida los eritrocitos",
         "El nitrógeno mejora la conducción nerviosa"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "A altas presiones la solubilidad del nitrógeno aumenta disolviéndose en el tejido adiposo del cerebro interfiriendo con la conductancia iónica generando un efecto similar a la intoxicación por alcohol.",
       "hint": "Se conoce popularmente como la borrachera de las profundidades."
     },
@@ -1634,7 +1634,7 @@
         "Rotura alveolar por alta presión hidrostática",
         "Infección pulmonar fulminante"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Un ascenso demasiado rápido impide que el nitrógeno disuelto sea exhalado progresivamente formando burbujas en sangre y tejidos que provocan dolor articular isquemia e infartos.",
       "hint": "Funciona igual que abrir rápidamente una botella de bebida carbonatada."
     },
@@ -1647,7 +1647,7 @@
         "El volumen corriente respecto a la frecuencia respiratoria inicial",
         "La capacidad pulmonar total"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Inicialmente el cuerpo aumenta la ventilación alveolar profundizando la respiración incremento del volumen corriente siendo más eficiente que simplemente aumentar la frecuencia respiratoria.",
       "hint": "Es mejor respirar profundo que respirar superficial y rápido."
     },
@@ -1660,7 +1660,7 @@
         "Aumenta debido al reclutamiento y distensión de los capilares pulmonares",
         "Se anula por vasoconstricción total"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El aumento del gasto cardíaco eleva la presión arterial pulmonar abriendo capilares previamente cerrados reclutamiento y ensanchando los abiertos distensión aumentando el área total de intercambio.",
       "hint": "El pulmón utiliza toda su reserva vascular disponible."
     },
@@ -1673,7 +1673,7 @@
         "Se mantienen notablemente constantes debido al emparejamiento ventilación perfusión",
         "Ambas disminuyen hasta llegar a la hipoxia e hipocapnia"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "A pesar del aumento masivo del consumo de oxígeno y producción de dióxido de carbono los mecanismos de control ajustan la ventilación tan precisamente que los gases arteriales no varían significativamente.",
       "hint": "El sistema de control respiratorio es increíblemente preciso."
     },
@@ -1686,7 +1686,7 @@
         "Señales anticipatorias de la corteza motora y propioceptores articulares",
         "La acumulación de ácido láctico en los músculos"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El incremento brusco ventilatorio fase uno es neurogénico originado en la corteza motora y receptores mecánicos articulares antes de que ocurran cambios químicos en la sangre.",
       "hint": "El cerebro y los músculos se comunican antes de que la sangre avise."
     },
@@ -1699,7 +1699,7 @@
         "Síndrome de distrés respiratorio",
         "Cifoscoliosis severa"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La destrucción de los tabiques alveolares en el enfisema reduce la retracción elástica del pulmón permitiendo que este se hiperinsufle y atrape aire elevando el volumen residual.",
       "hint": "Pérdida de la fuerza elástica pulmonar por destrucción tisular."
     },
@@ -1712,7 +1712,7 @@
         "Hipoventilación global severa inicial",
         "Defecto en la difusión de la membrana"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La broncoconstricción irregular produce zonas pulmonares que están perfundidas pero mal ventiladas creando un desequilibrio ventilación perfusión que causa hipoxemia arterial.",
       "hint": "El aire no llega uniformemente a todas las zonas de intercambio."
     },
@@ -1725,7 +1725,7 @@
         "Hipoxia isquémica",
         "Hipoxia histotóxica"
       ],
-      "ans": 4,
+      "ans": 3,
       "just": "El cianuro bloquea la enzima citocromo oxidasa en la cadena respiratoria mitocondrial impidiendo la respiración celular lo que se clasifica como hipoxia histotóxica tisular.",
       "hint": "El veneno inutiliza la maquinaria interna de la célula."
     },
@@ -1738,7 +1738,7 @@
         "Porque la anemia vuelve a la sangre más brillante",
         "Porque los tejidos dejan de extraer oxígeno"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La cianosis clínica depende de la concentración absoluta de hemoglobina reducida si el paciente tiene muy poca hemoglobina total es difícil alcanzar el umbral de cinco gramos desoxigenados para manifestar el color azul.",
       "hint": "Se necesita suficiente cantidad de pigmento sin oxígeno para teñir la piel."
     },
@@ -1751,7 +1751,7 @@
         "La red de fibras de elastina y colágeno junto con la tensión superficial alveolar",
         "La presión capilar pulmonar"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El retroceso pasivo depende de las propiedades elásticas intrínsecas del tejido conjuntivo pulmonar sumado a la tensión superficial de la interfaz líquido aire en el interior de los alvéolos.",
       "hint": "Es la combinación de las fibras del tejido y el agua microscópica alveolar."
     },
@@ -1764,7 +1764,7 @@
         "Multiplicando el volumen corriente por la presión sistólica",
         "Restando la presión atmosférica a la alveolar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La compliance dinámica evalúa la distensibilidad pulmonar durante el movimiento de aire incluyendo el factor de resistencia de las vías aéreas a diferencia de la compliance estática medida sin flujo.",
       "hint": "Toma en cuenta tanto la elasticidad como la resistencia al movimiento."
     },
@@ -1777,7 +1777,7 @@
         "Síndrome de dificultad respiratoria del lactante",
         "Fibrosis pulmonar quística"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "En el enfisema la destrucción del parénquima y las fibras elásticas hace que el pulmón ofrezca muy poca resistencia a la expansión aumentando anormalmente su distensibilidad compliance alta.",
       "hint": "Piensa en un elástico viejo y desgastado que ha perdido su tensión."
     },
@@ -1790,7 +1790,7 @@
         "Flujo de transición intermitente",
         "Flujo molecular libre"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Las vías aéreas grandes con diámetros amplios y altas velocidades de flujo superan el número de Reynolds crítico desarrollando un flujo turbulento ruidoso y desordenado.",
       "hint": "Produce sonido porque las moléculas de aire chocan entre sí y contra las paredes."
     },
@@ -1803,7 +1803,7 @@
         "El radio no influye en la resistencia solo la longitud",
         "El flujo es independiente de los cambios del diámetro bronquial"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Pequeñas reducciones en el radio de las vías respiratorias causan aumentos masivos en la resistencia al flujo ya que esta es inversamente proporcional a la cuarta potencia del radio.",
       "hint": "Si reduces a la mitad el tubo el esfuerzo se multiplica por dieciséis."
     },
@@ -1816,7 +1816,7 @@
         "La presión arterial sistémica",
         "La resistencia de la vía aérea superior"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El colapso faríngeo detiene el flujo aéreo provocando hipoxemia progresiva caída del oxígeno e hipercapnia lo que estimula intensamente los centros nerviosos provocando el microdespertar.",
       "hint": "Falta del gas vital durante el período de colapso respiratorio nocturno."
     },
@@ -1829,7 +1829,7 @@
         "Inhibe totalmente cualquier tipo de secreción",
         "Aumenta la producción de un moco fluido y abundante"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "A diferencia del parasimpático que produce secreción copiosa la estimulación simpática reduce el volumen pero aumenta la viscosidad del moco respiratorio a través de receptores alfa y beta.",
       "hint": "El estrés prepara la vía disminuyendo el líquido excesivo pero volviéndolo pegajoso."
     },
@@ -1842,7 +1842,7 @@
         "Barrer continuamente las partículas inhaladas y patógenos hacia la faringe para ser deglutidos",
         "Humidificar el aire inspirado extrayendo agua de las células"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El epitelio pseudoestratificado ciliado forma una escalera mecánica biológica que empuja el moco cargado de impurezas hacia el tracto digestivo manteniendo estériles los pulmones profundos.",
       "hint": "Funciona como una barredora microscópica incesante."
     },
@@ -1855,7 +1855,7 @@
         "Ausencia de neumocitos secretores tipo uno",
         "Hiperproducción celular de ácido hialurónico"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La mutación del canal evita la excreción de cloro hacia la luz de la vía aérea lo que incrementa la reabsorción de sodio y agua deshidratando el moco y volviéndolo extremadamente denso y patológico.",
       "hint": "Falla la hidratación de las secreciones debido a un ión negativo bloqueado."
     },
@@ -1868,7 +1868,7 @@
         "Espiración pasiva profunda con glotis abierta",
         "Contracción diafragmática sostenida con cierre nasal"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La tos requiere crear una enorme presión intratorácica contra la glotis cerrada al abrirse súbitamente se genera un flujo espiratorio violento que arranca las secreciones adheridas.",
       "hint": "Crea una bomba de presión interna que se libera de golpe."
     },
@@ -1881,7 +1881,7 @@
         "El alto nivel de monóxido de carbono endógeno del feto",
         "La hiperventilación del feto en el útero"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Las cadenas gamma de la hemoglobina fetal interactúan pobremente con el difosfoglicerato lo que anula su efecto inhibidor de afinidad manteniendo la curva firmemente desplazada hacia la izquierda.",
       "hint": "No es afectada por la molécula que ayuda a liberar el oxígeno en el adulto."
     },
@@ -1894,7 +1894,7 @@
         "Es inferior e independiente",
         "Solo refleja la función del ventrículo derecho"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al inflar el balón del catéter de Swan Ganz se crea una columna de sangre estática que iguala presiones hacia adelante permitiendo medir la presión aurícular izquierda y el llenado ventricular.",
       "hint": "La presión medida a través del capilar bloqueado mira directamente a la cavidad cardíaca izquierda."
     },
@@ -1907,7 +1907,7 @@
         "Aumenta debido al reclutamiento y la distensión vascular reduciendo la resistencia",
         "Causa edema alveolar masivo inmediato"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El pulmón puede acomodar enormes aumentos del flujo sanguíneo sin elevar patológicamente la presión abriendo capilares de reserva y estirando los vasos existentes acomodación pasiva.",
       "hint": "El lecho vascular se expande como una esponja elástica."
     },
@@ -1920,7 +1920,7 @@
         "Presión intrapleural negativa",
         "Tensión superficial alveolar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Según la ecuación de Starling si la presión hidrostática capilar impulsora de líquido supera la fuerza oncótica de retención el líquido transuda hacia el intersticio y finalmente al alvéolo.",
       "hint": "La fuerza del agua empujando desde adentro del capilar hacia afuera."
     },
@@ -1933,7 +1933,7 @@
         "Drenan constantemente el pequeño exceso fisiológico de líquido intersticial filtrado manteniendo el pulmón seco",
         "Transportan el oxígeno disuelto hacia los ganglios"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Incluso en personas sanas hay una ligera filtración neta de líquido desde los capilares el robusto sistema linfático pulmonar bombea este líquido de vuelta a la circulación venosa sistémica.",
       "hint": "Funcionan como el sistema de alcantarillado que evita inundaciones tisulares."
     },
@@ -1946,7 +1946,7 @@
         "Tiene una proporción altísima de fibras rojas oxidativas de contracción lenta ricas en mitocondrias",
         "Se nutre del oxígeno que difunde desde el peritoneo"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El diafragma es un músculo esquelético único altamente especializado en el metabolismo aeróbico dotado de extensa capilarización y mitocondrias lo que previene la acumulación de ácido láctico en reposo.",
       "hint": "Adaptado para realizar una maratón continua sin detenerse a descansar."
     },
@@ -1959,7 +1959,7 @@
         "El hígado metaboliza el exceso de gas en urea",
         "Los eritrocitos aumentan el transporte de oxígeno inhibiendo el gas"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Ante la incapacidad de eliminar el dióxido de carbono acidosis respiratoria el riñón retiene el ión bicarbonato base durante días para estabilizar el pH sanguíneo compensación renal.",
       "hint": "Aumentando la base para contrarrestar el ácido estancado."
     },
@@ -1972,7 +1972,7 @@
         "Provocar vasoconstricción pulmonar masiva",
         "Aumentar excesivamente su capacidad vital forzada"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "En estos pacientes los quimiorreceptores centrales se han insensibilizado al dióxido de carbono dependiendo su respiración del oxígeno bajo detectado en los cuerpos carotídeos si se les da demasiado oxígeno dejan de respirar.",
       "hint": "Eliminas el único estímulo que los mantenía respirando."
     },
@@ -1985,7 +1985,7 @@
         "Cortocircuito intrapulmonar verdadero shunt",
         "Asma leve intermitente"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "En un shunt verdadero áreas colapsadas o llenas de pus la sangre perfunde el capilar pero no hay ventilación posible retornando la sangre completamente desoxigenada al corazón izquierdo.",
       "hint": "Perfusión sin ninguna ventilación."
     },
@@ -1998,7 +1998,7 @@
         "Porque el oxígeno disminuye el gasto cardíaco",
         "Porque la hemoglobina se satura de nitrógeno en su lugar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El gas adicional solo ventila los alvéolos sanos cuya sangre ya está saturada al máximo el problema radica en la sangre que pasa por regiones sin aire la cual sigue mezclándose desoxigenada.",
       "hint": "El medicamento oxígeno no puede llegar a la zona del problema."
     },
@@ -2011,7 +2011,7 @@
         "Aumento en la concentración de protones caída del pH capilar",
         "Disminución en los niveles de difosfoglicerato"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El aumento de la acidez tisular efecto Bohr debilita el enlace de la hemoglobina con el oxígeno favoreciendo la descarga masiva a las células metabólicamente activadas que están produciendo ácido láctico o carbónico.",
       "hint": "Relacionado con la acidez que se genera al hacer mucho esfuerzo celular."
     },
@@ -2024,7 +2024,7 @@
         "Reflejo tusígeno o laríngeo protector",
         "Reflejo barorreceptor aórtico"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Los receptores de irritación en la vía aérea superior desencadenan respuestas de protección incluyendo laringoespasmo y detención temporal de la ventilación para evitar el ingreso de líquidos al pulmón.",
       "hint": "Protege las cuerdas vocales e impide el paso de agua o comida."
     },
@@ -2037,7 +2037,7 @@
         "Reducción del flujo sanguíneo a los músculos respiratorios",
         "Absorción de frío externo hacia la arteria pulmonar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "A medida que el aire seco se humidifica en la vía aérea hasta la saturación absorbe calor corporal que luego es expulsado con cada espiración contribuyendo significativamente a la pérdida de calor.",
       "hint": "Funciona como el jadeo canino aunque en menor escala humana."
     },
@@ -2050,7 +2050,7 @@
         "El volumen residual",
         "El volumen de espacio muerto anatómico exclusivo"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El volumen residual se mantiene atrapado gracias a la tracción torácica y el cierre dinámico de las vías aéreas finas evitando el colapso pulmonar absoluto o atelectasia masiva.",
       "hint": "La cantidad que queda de forma permanente."
     },
@@ -2063,7 +2063,7 @@
         "La alta presión barométrica de la montaña facilita la entrada de aire pasiva",
         "Se incrementa masivamente la viscosidad del gas bloqueando los conductos"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Aunque hay menos oxígeno disponible para el metabolismo el aire en sí es menos denso debido a la baja presión lo que físicamente facilita su movimiento y reduce la resistencia turbulenta al flujo.",
       "hint": "El aire es más ligero allá arriba."
     },
@@ -2076,7 +2076,7 @@
         "Aumenta la ventilación alveolar oxigenando la sangre",
         "Se colapsan irreversiblemente los bronquiolos principales"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Esta maniobra crea una tremenda presión positiva torácica que comprime las grandes venas dificultando la llegada de sangre al corazón y bajando temporalmente el gasto cardíaco.",
       "hint": "El mismo esfuerzo que se realiza al hacer fuerza abdominal extrema o defecar."
     },
@@ -2089,7 +2089,7 @@
         "Sintetizar anillos cartilaginosos nuevos en la madurez",
         "Secretar histamina localmente"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al contraerse o relajarse este músculo modifica el diámetro interno sirviendo como la principal válvula de control de flujo distributivo hacia las diferentes unidades alveolares.",
       "hint": "El regulador dinámico de las tuberías respiratorias distales."
     },
@@ -2102,7 +2102,7 @@
         "La diferencia entre presión alveolar y presión intrapleural",
         "La suma del espacio muerto anatómico y fisiológico"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La constante de tiempo refleja la velocidad a la que se llena o vacía un alvéolo calculándose al multiplicar la resistencia por la compliance.",
       "hint": "Depende de la facilidad de expansión y la oposición al flujo."
     },
@@ -2115,7 +2115,7 @@
         "Aumentan su participación en el intercambio gaseoso",
         "Disminuyen su volumen residual drásticamente"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Alvéolos con alta resistencia o compliance requieren más tiempo para equilibrar presiones por lo que en taquipnea reciben menos volumen corriente.",
       "hint": "Unidades lentas se quedan atrás cuando el ciclo es rápido."
     },
@@ -2128,7 +2128,7 @@
         "Trabajo inercial del flujo aéreo",
         "Trabajo de compresión torácica"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La fibrosis disminuye la distensibilidad pulmonar obligando a los músculos inspiratorios a ejercer mayor fuerza para vencer el retroceso elástico incrementado.",
       "hint": "Cuesta más estirar un tejido rígido."
     },
@@ -2141,7 +2141,7 @@
         "Aumento prolongado del tiempo espiratorio",
         "Respiración con labios fruncidos"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al respirar con volúmenes bajos minimizan el trabajo elástico excesivo compensando con mayor frecuencia para mantener la ventilación alveolar.",
       "hint": "Evitan inflar mucho el pulmón rígido."
     },
@@ -2154,7 +2154,7 @@
         "Trabajo resistivo al flujo aéreo",
         "Trabajo por tensión superficial alveolar"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "La broncoconstricción disminuye el radio de la vía aérea elevando exponencialmente la resistencia al flujo superando el trabajo no elástico.",
       "hint": "Fricción del aire contra tubos estrechos."
     },
@@ -2167,7 +2167,7 @@
         "Reduce la presión alveolar de oxígeno",
         "Aumenta la resistencia vascular pulmonar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Esta maniobra traslada la caída de presión hacia los labios manteniendo una presión intrabronquial mayor a la intrapleural previniendo el cierre prematuro.",
       "hint": "Crea una contrapresión que entablilla los bronquios desde adentro."
     },
@@ -2180,7 +2180,7 @@
         "Por el peso del pulmón soportado en el hilio que tracciona más fuertemente las cúpulas pleurales superiores",
         "Por el mayor grosor pleural apical"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El pulmón cuelga en la cavidad torácica bajo influencia de la gravedad creando un gradiente de presión pleural que oscila entre negativo extremo arriba y menos negativo abajo.",
       "hint": "Efecto de la gravedad sobre la masa pulmonar suspendida."
     },
@@ -2193,7 +2193,7 @@
         "Los hilios",
         "Se distribuye uniformemente"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "Los alvéolos basales parten de un volumen menor por ser menos traccionados ubicándose en la parte más empinada y distensible de la curva presión volumen.",
       "hint": "Zona más comprimida en reposo tiene mayor potencial de expansión."
     },
@@ -2206,7 +2206,7 @@
         "Se ventila solo el espacio muerto",
         "El aire se estanca en la tráquea"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "A volumen residual la presión pleural en las bases excede la presión atmosférica comprimiendo los bronquiolos basales dirigiendo el flujo inicial hacia los ápices.",
       "hint": "Cambio de distribución cuando el pulmón está casi vacío."
     },
@@ -2219,7 +2219,7 @@
         "Cuantificar el espacio muerto anatómico absoluto",
         "Determinar la distensibilidad estática"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El volumen de cierre evalúa el estado de las vías aéreas finas detectando obstrucciones tempranas cuando las bases pulmonares se cierran antes de terminar la espiración.",
       "hint": "Punto de atrapamiento aéreo basal."
     },
@@ -2232,7 +2232,7 @@
         "La presión absoluta dentro de la cavidad pleural",
         "El gradiente entre alvéolo y capilar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Es la fuerza inherente del tejido pulmonar para colapsarse igualada y opuesta por la presión transpulmonar que mantiene la expansión.",
       "hint": "Fuerza de retroceso del resorte pulmonar."
     },
@@ -2245,7 +2245,7 @@
         "Disminuye progresivamente hasta el Volumen Residual",
         "Es completamente independiente del volumen pulmonar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "A altos volúmenes los capilares alveolares se estiran y comprimen aumentando la resistencia a bajos volúmenes los vasos extraalveolares colapsan aumentando también la resistencia.",
       "hint": "Tiene forma de letra U en la gráfica."
     },
@@ -2258,7 +2258,7 @@
         "Vénulas postcapilares directas",
         "Metaarteriolas"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Los vasos extraalveolares experimentan la presión del intersticio pulmonar la cual está influenciada directamente por la tracción radial del parénquima expansivo.",
       "hint": "Vasos ubicados fuera de las paredes de los sacos alveolares."
     },
@@ -2271,7 +2271,7 @@
         "Estimula quimiorreceptores venosos",
         "Bloquea la enzima convertidora de angiotensina"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El aumento de la presión retrógrada ingurgita el lecho capilar abriendo vasos cerrados y ensanchando los abiertos minimizando la resistencia hidráulica total.",
       "hint": "Aumenta el calibre de las tuberías pasivamente."
     },
@@ -2284,7 +2284,7 @@
         "Óxido nítrico",
         "Angiotensina dos"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El óxido nítrico sintetizado localmente relaja el músculo liso vascular pulmonar contrarrestando la vasoconstricción y manteniendo las presiones basales bajas.",
       "hint": "Gas mediador de relajación derivado de la arginina."
     },
@@ -2297,7 +2297,7 @@
         "Por la diferencia de concentración de oxígeno",
         "Por la presión oncótica del plasma"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "En la Zona 2 la presión alveolar supera a la venosa pero es menor a la arterial funcionando como una resistencia de Starling o catarata donde el flujo depende de la presión de entrada frente a la compresión alveolar externa.",
       "hint": "Se comporta como un tubo colapsable parcialmente ocluido por la presión del aire."
     },
@@ -2310,7 +2310,7 @@
         "Ejercicio intenso",
         "Acostado en decúbito supino"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La caída catastrófica de la presión arterial pulmonar en la hipovolemia permite que la presión alveolar normal colapse por completo los capilares apicales deteniendo el flujo.",
       "hint": "Presión vascular insuficiente para mantener los vasos abiertos."
     },
@@ -2323,7 +2323,7 @@
         "Uno coma cinco",
         "Mayor a dos"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Resulta de dividir la ventilación alveolar total aproximada cuatro litros minuto por el gasto cardíaco pulmonar aproximado cinco litros minuto.",
       "hint": "Cociente cercano a uno pero ligeramente inferior."
     },
@@ -2336,7 +2336,7 @@
         "Apertura masiva de anastomosis arteriovenosas",
         "Equilibrio perfecto de intercambio gaseoso"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "Al no existir flujo sanguíneo perfusión cero el denominador se anula creando un espacio muerto alveolar absoluto donde el aire no se intercambia.",
       "hint": "El aire entra pero no hay sangre para recibirlo."
     },
@@ -2349,7 +2349,7 @@
         "PO2 de 150 mmHg y PCO2 cercana a cero mmHg",
         "PO2 nula y PCO2 elevada"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Al no recibir sangre venosa que extraiga oxígeno o aporte dióxido de carbono el gas en el alvéolo iguala la composición del aire inspirado traqueal humidificado.",
       "hint": "El alvéolo refleja exactamente el aire del ambiente externo."
     },
@@ -2362,7 +2362,7 @@
         "PO2 de 40 mmHg y PCO2 de 46 mmHg",
         "PO2 superior a 200 mmHg"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Sin ventilación el gas alveolar atrapado se equilibra por completo con las presiones parciales de la sangre venosa mixta entrante asumiendo sus mismos valores.",
       "hint": "Refleja exactamente las presiones de la sangre que regresa de los tejidos."
     },
@@ -2375,7 +2375,7 @@
         "El oxígeno es destruido en zonas mal ventiladas",
         "La perfusión aumenta masivamente en zonas enfermas"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Las unidades con VQ alto pueden excretar más CO2 compensando la retención de las unidades enfermas pero no pueden incorporar más O2 a la hemoglobina que ya está saturada en su zona plana.",
       "hint": "La forma de las curvas de transporte de ambos gases difiere drásticamente."
     },
@@ -2388,7 +2388,7 @@
         "Espacio muerto fisiológico",
         "Capacidad de difusión pulmonar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El gradiente A a es un índice esencial para determinar si la hipoxemia proviene de un problema de intercambio pulmonar intrínseco o de una simple hipoventilación global.",
       "hint": "Diferencia de oxígeno entre el saco de aire y la sangre."
     },
@@ -2401,7 +2401,7 @@
         "Sugiere un cortocircuito cardíaco masivo",
         "Confirma embolia pulmonar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Si el gradiente es normal el pulmón transfiere eficientemente el oxígeno disponible el problema radica en que llega poco oxígeno a los alvéolos por depresión respiratoria.",
       "hint": "El pulmón está sano pero no está recibiendo aire fresco."
     },
@@ -2414,7 +2414,7 @@
         "Que en condiciones metabólicas mixtas normales se producen doscientos ml de CO2 por cada doscientos cincuenta ml de O2 consumidos",
         "Que el pulmón no puede excretar todo el gas"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El cociente de producción de CO2 sobre consumo de O2 refleja el sustrato metabólico celular un valor de cero ocho indica un metabolismo balanceado de grasas carbohidratos y proteínas.",
       "hint": "Relación producción consumo de gases sistémicos."
     },
@@ -2427,7 +2427,7 @@
         "Ley de Graham generalizada",
         "Ley de Laplace pulmonar"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La ley de Fick integra área grosor gradiente de presión y propiedades químicas del gas para calcular la tasa neta de difusión a través de barreras biológicas.",
       "hint": "Ley fundamental del cruce de membranas."
     },
@@ -2440,7 +2440,7 @@
         "Su gradiente de presión es mil veces mayor",
         "Se disocia en iones libres instantly"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El coeficiente de difusión biológico depende crucialmente de la solubilidad del gas en medios acuosos tisulares propiedad que el CO2 posee en abundancia relativa frente al O2.",
       "hint": "El gas de desecho ama disolverse en agua tisular."
     },
@@ -2453,7 +2453,7 @@
         "Uno coma cinco segundos",
         "Tres segundos"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Toma aproximadamente tres cuartos de segundo atravesar la zona de intercambio tiempo holgado considerando que la equilibración de O2 se completa en el primer tercio de este período.",
       "hint": "Menos de un segundo pero más de medio."
     },
@@ -2466,7 +2466,7 @@
         "En una hipoventilación aguda pura",
         "Al recibir oxigenoterapia al cien por ciento"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El ejercicio reduce el tiempo de tránsito eritrocitario a un tercio si además hay baja fuerza impulsora por altitud o una barrera gruesa por fibrosis la sangre sale sin equilibrarse completamente.",
       "hint": "Cruce rápido de células rojas bajo condiciones difíciles de transferencia."
     },
@@ -2479,7 +2479,7 @@
         "Empuja el oxígeno de vuelta al alvéolo",
         "Activa el paso de nitrógeno"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La hemoglobina actúa como un sumidero o esponja química secuestrando O2 sin que aporte presión parcial hasta que los sitios de unión se saturan sosteniendo la entrada masiva del gas.",
       "hint": "Mantiene baja la concentración libre para que siga fluyendo el gas."
     },
@@ -2492,7 +2492,7 @@
         "Multiplicar la saturación de hemoglobina por uno coma treinta y cuatro",
         "Restar el vapor de agua"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "A temperatura corporal cada milímetro de mercurio de presión parcial disuelve apenas cero coma cero cero tres mililitros de oxígeno por cada cien mililitros de sangre total.",
       "hint": "Fórmula matemática específica del oxígeno plasmático libre."
     },
@@ -2505,9 +2505,9 @@
         "Tres coma catorce mililitros por gramo",
         "Veinte mililitros por gramo"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Basado en estequiometría un gramo de hemoglobina puede unirse químicamente a un máximo de 1.34 ml de O2 valor esencial para calcular el contenido arterial de oxígeno.",
-      "hint": "Factor de capacidad del transportador hemo."
+      "hint": "Factor de capacity del transportador hemo."
     },
     {
       "cat": "fisiologia",
@@ -2518,7 +2518,7 @@
         "Gasto cardíaco y consumo tisular de oxígeno",
         "Presión atmosférica y PCO2"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La suma del oxígeno unido a proteínas Hb x 1.34 x SaO2 más el oxígeno disuelto PO2 x 0.003 da el contenido total por decilitro de sangre.",
       "hint": "Suma del gas atrapado por las proteínas y el gas disuelto en agua."
     },
@@ -2531,7 +2531,7 @@
         "Contenido solo incluye gas disuelto",
         "Saturación se refiere solo a la hemoglobina fetal"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Un paciente con anemia severa puede tener cien por ciento de saturación en su poca hemoglobina pero su contenido total absoluto de oxígeno será patológicamente bajo.",
       "hint": "Uno es un porcentaje de llenado otro es la cantidad real en litros."
     },
@@ -2544,7 +2544,7 @@
         "El hierro cambia a estado oxidado férrico",
         "Se libera monóxido de carbono atrapado"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La unión secuencial de oxígeno provoca cambios conformacionales alostéricos relajando la tensión de la molécula que facilita exponencialmente las uniones posteriores cooperatividad.",
       "hint": "Cambio físico que facilita el trabajo en equipo de los grupos hemo."
     },
@@ -2557,7 +2557,7 @@
         "Desplaza la curva a la derecha mejorando la descarga tisular",
         "Vuelve la curva una línea recta"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Incluso un cinco a diez por ciento de carboxihemoglobina anula parte del transporte y paradójicamente aumenta la afinidad de los sitios hemo libres reteniendo el poco oxígeno remanente.",
       "hint": "Robo de capacidad sumado a secuestro del gas restante."
     },
@@ -2570,7 +2570,7 @@
         "Descenso de la temperatura basal profunda",
         "Hipocapnia absoluta"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La vía colateral de Rapoport Luebering aumenta la síntesis de 2,3 BPG ante hipoxia tisular para estabilizar la hemoglobina desoxigenada y mejorar la entrega de oxígeno sistémico.",
       "hint": "Ajuste interno del glóbulo rojo para sobrevivir con poco aire."
     },
@@ -2583,7 +2583,7 @@
         "Carbonato de calcio precipitado",
         "Cianocobalamina"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El CO2 puede unirse directamente y de forma reversible a los grupos amino terminales de las proteínas sanguíneas sin intervención enzimática aunque no es la vía de transporte mayoritaria.",
       "hint": "Formación química en los extremos de las proteínas sanguíneas."
     },
@@ -2596,7 +2596,7 @@
         "Oxidasa terminal",
         "Proteasa de serina"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Presente en altas concentraciones dentro del glóbulo rojo acelera miles de veces la reacción de H2O más CO2 para formar ácido carbónico que se disocia en bicarbonato.",
       "hint": "Motor enzimático para gestionar el gas ácido."
     },
@@ -2609,7 +2609,7 @@
         "Los puentes disulfuro externos",
         "El hierro en estado ferroso"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La desoxihemoglobina es un ácido débil mejor amortiguador base que la oxihemoglobina capturando ávidamente los protones liberados por la disociación del ácido carbónico.",
       "hint": "Aminoácido específico que atrapa protones en la proteína."
     },
@@ -2622,7 +2622,7 @@
         "Cascada de oxígeno celular",
         "Desplazamiento del punto isobéstico"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al liberar O2 la desoxihemoglobina resultante aumenta su afinidad por el CO2 compuestos carbamino y su capacidad amortiguadora de protones facilitando la carga de más CO2 hacia los pulmones.",
       "hint": "El ceder un gas ayuda directamente a cargar el otro gas residual."
     },
@@ -2635,7 +2635,7 @@
         "Ochenta por ciento",
         "Noventa y nueve por ciento"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Aunque el transporte principal bruto es como bicarbonato la fracción carbamino tiene una dinámica de intercambio tan rápida en el pulmón que aporta casi un treinta por ciento del CO2 exhalado total.",
       "hint": "Una porción menor en volumen absoluto pero muy activa en el intercambio."
     },
@@ -2648,7 +2648,7 @@
         "La respiración se vuelve voluntaria",
         "Ocurre taquipnea extrema sin fase espiratoria"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al separar los centros superiores que inhiben la apneusis centro neumotáxico y bloquear la aferencia vagal inhibición por volumen el sistema queda atrapado en el impulso inspiratorio basal tónico.",
       "hint": "Pérdida de los frenos respiratorios naturales."
     },
@@ -2661,7 +2661,7 @@
         "Sensar hipoxia local alveolar profunda",
         "Aumentar el flujo sanguíneo bronquial secretor"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al inflarse el pulmón estos mecanorreceptores vagales avisan al tronco cerebral deteniendo el esfuerzo inspiratorio y relajando los músculos respiratorios para evitar barotrauma.",
       "hint": "Sensor biológico de volumen máximo permitido."
     },
@@ -2674,7 +2674,7 @@
         "Dilatación pasiva del árbol traqueobronquial",
         "Depresión respiratoria progresiva"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Localizados superficialmente en el epitelio estos receptores vagales inician mecanismos de limpieza agresivos y cierre defensivo de la vía aérea inferior.",
       "hint": "Respuesta alérgica y defensiva clásica de las vías aéreas."
     },
@@ -2687,7 +2687,7 @@
         "La presión parcial arterial de dióxido de carbono detectada centralmente",
         "El lactato plasmático libre"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Variaciones de apenas un milímetro de mercurio en la PCO2 provocan aumentos inmediatos y pronunciados en la ventilación minuto demostrando una curva de respuesta excepcionalmente inclinada.",
       "hint": "El gas metabólico de desecho rige la rutina respiratoria diaria."
     },
@@ -2700,7 +2700,7 @@
         "Vasodilatación masiva con riesgo de hemorragia dural",
         "Convulsiones febriles inducidas por alcalosis metabólica pura"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El CO2 es un potente vasodilatador cerebral al eliminarlo en exceso la vasculatura craneal se contrae privando parcialmente de flujo al cerebro generando isquemia transitoria leve.",
       "hint": "Por qué sentimos que nos desmayamos al inflar demasiados globos seguidos."
     },
@@ -2713,7 +2713,7 @@
         "Los tejidos detienen su metabolismo basal hibernación",
         "La presión venosa se iguala a la arterial anulando el gradiente"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Inicialmente al hiperventilar por hipoxia la caída de CO2 frena la respiración limitando la adaptación con el tiempo la excreción renal de base libera este freno permitiendo una hiperventilación aún mayor a pesar de la hipoxemia reinante.",
       "hint": "El cuerpo quita el freno de seguridad del CO2 para poder buscar el poco oxígeno que queda."
     },
@@ -2726,7 +2726,7 @@
         "Producción interna de lactato neuronal anaeróbico",
         "Bloqueo irreversible de los receptores serotoninérgicos"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "Al excretar bicarbonato del LCR el pH vuelve a disminuir a pesar de la PCO2 baja manteniendo a los quimiorreceptores centrales activos y sosteniendo la hiperventilación crónica en altitud.",
       "hint": "Ajuste de los amortiguadores cerebrales a un nuevo nivel base."
     },
@@ -2739,7 +2739,7 @@
         "Hemorragia alveolar difusa espontánea",
         "Aneurisma aórtico disecante por policitemia"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La hipoxia alveolar persistente mantiene cerradas las arteriolas pulmonares engrosando su capa muscular y forzando al corazón derecho a bombear contra altas presiones indefinidamente.",
       "hint": "El pulmón entero trata de redirigir sangre creando un cuello de botella global."
     },
@@ -2752,7 +2752,7 @@
         "Porque realizan metabolismo anaeróbico estricto en reposo",
         "Porque extraen oxígeno directamente del aire pleural circundante"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La baja resistencia de la vía aérea en un pulmón sano y la elastina del parénquima requieren un trabajo de presión mínimo al diafragma siendo un proceso metabólicamente muy económico en reposo.",
       "hint": "La máquina está perfectamente engrasada y optimizada físicamente."
     },
@@ -2765,7 +2765,7 @@
         "Destrucción masiva y aguda de los eritrocitos circulantes",
         "Cristalización de la molécula de hemoglobina intracelular"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El oxígeno a altas concentraciones satura los sistemas antioxidantes generando superóxidos que destruyen membranas celulares alveolares y suprimen el surfactante.",
       "hint": "El exceso del gas vital se vuelve un veneno oxidativo celular."
     },
@@ -2778,7 +2778,7 @@
         "El diafragma se paraliza temporalmente induciendo colapso pasivo bilateral",
         "Destrucción química del surfactante en cinco minutos de exposición"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El nitrógeno no cruza a la sangre y sirve como esqueleto de gas en el alvéolo si se cambia todo por oxígeno las zonas con VQ bajo absorberán todo el volumen gaseoso colapsando físicamente la estructura.",
       "hint": "Pérdida del gas de relleno estructural que nunca se absorbe a la sangre."
     },
@@ -2791,7 +2791,7 @@
         "Indica daño cortical masivo e inminente paro respiratorio",
         "Aumenta pasivamente el flujo sanguíneo cerebral disminuyendo la presión torácica"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Es un mecanismo compensatorio instintivo para mantener presión positiva al final de la espiración férula neumática interna evitando el cierre alveolar doloroso y el reclutamiento repetitivo.",
       "hint": "Frenar artificialmente la salida del aire con las cuerdas vocales."
     },
@@ -2804,7 +2804,7 @@
         "Leucotrienos derivados del ácido araquidónico prostaglandinas y tromboxanos",
         "Tiroxina activa"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El pulmón no es solo un filtro vascular también es una glándula local hiperactiva que genera eicosanoides fundamentales para la regulación del tono vascular y bronquial así como respuestas inmunitarias locales.",
       "hint": "Mediadores lipídicos de la inflamación y contracción local."
     },
@@ -2817,7 +2817,7 @@
         "Incrementa desproporcionadamente el volumen corriente de reposo",
         "Elimina por completo el volumen residual intrínseco"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El peso del abdomen y la pared torácica desplaza el diafragma hacia el tórax empujando el punto de equilibrio elástico hacia un volumen mucho menor facilitando el cierre de vías aéreas dependientes.",
       "hint": "El exceso de masa física aplasta el fuelle pulmonar hacia arriba."
     },
@@ -2830,7 +2830,7 @@
         "Cuerpos aórticos aislados",
         "Receptores yuxtacapilares J distales"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Aunque los periféricos son rápidos los centrales en el tronco cerebral dictan el nivel de ventilación minuto tónico y sostenido basado en el pH del LCR gobernado por la PCO2.",
       "hint": "Sensores principales detrás de la barrera hematoencefálica."
     },
@@ -2843,7 +2843,7 @@
         "Halotano u otros halogenados lipofílicos volátiles",
         "Xenón gaseoso puro"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "La alta partición sangre gas y lípido gas de estos agentes causa que se acumulen actuando como un reservorio que lentamente devuelve gas a la sangre venosa pulmonar retrasando el despertar.",
       "hint": "Anestésicos clásicos que se esconden en la grasa corporal."
     },
@@ -2856,7 +2856,7 @@
         "Se inactiva automáticamente ante aire frío para evitar pérdida de temperatura",
         "Extrae partículas contaminantes directamente hacia el ventrículo izquierdo aórtico"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El lecho vascular bronquial submucoso es extenso y altamente reactivo comportándose como un radiador que transfiere energía térmica y solvente a la luz bronquial ante aire hostil.",
       "hint": "El radiador nutricio de las cañerías conductoras."
     },
@@ -2869,7 +2869,7 @@
         "El RER se eleva superando uno coma cero debido a la amortiguación del lactato que genera exceso de CO2 no metabólico",
         "Cesa la producción de dióxido de carbono por bloqueo mitocondrial reversible"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El ácido láctico reacciona con el bicarbonato sérico produciendo agua y CO2 extra este gas adicional eleva la VCO2 en el aire espirado desproporcionadamente respecto al O2 consumido elevando R.",
       "hint": "Soplar el ácido adicional fuera del cuerpo a través del gas de desecho."
     },
@@ -2882,7 +2882,7 @@
         "Debido a presiones pleurales fuertemente positivas que expulsan el tapón",
         "Porque los macrófagos fagocitan instantáneamente todo el contenido luminal sólido"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La anatomía humana posee pequeñas conexiones colaterales funcionales que permiten que el aire de un alvéolo sano adyacente insufle por detrás al alvéolo obstruido previniendo su colapso agudo.",
       "hint": "Pequeñas vías de escape o puertas secretas entre los sacos de aire vecinos."
     },
@@ -2895,7 +2895,7 @@
         "La contracción involuntaria diafragmática de freno vagal intenso",
         "El cierre total persistente de la glotis"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El tórax tiene su propio volumen de equilibrio si se comprime por debajo de ese punto su pared ósea ejerce una fuerza de resorte expansiva masiva limitando la compresión pulmonar adicional.",
       "hint": "La caja de hueso se resiste a ser aplastada por completo."
     },
@@ -2908,7 +2908,7 @@
         "Edema agudo de pulmón cardiogénico",
         "Atelectasia masiva traumática posoperatoria"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "El trombo bloquea la perfusión a segmentos pulmonares perfectamente ventilados creando áreas de VQ infinito desperdiciando ventilación ineficaz y forzando a retener CO2 si no hay compensación.",
       "hint": "Aire entrando a sacos sin suministro de sangre circulante."
     },
@@ -2921,7 +2921,7 @@
         "Recibe tanto mayor perfusión gravedad como mayor ventilación alveolar partiendo de volumen inicial menor optimizando el intercambio",
         "No presenta alteraciones fisiológicas medibles comparado al pulmón superior elevado"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "La gravedad aumenta la perfusión en el pulmón recostado además por el peso torácico y abdominal parte de un volumen menor ubicándolo en la zona de mejor distensibilidad maximizando ambos parámetros.",
       "hint": "Estar acostado sobre un lado beneficia la función del lado apoyado."
     },
@@ -2934,7 +2934,7 @@
         "Aumentar la presión oncótica del líquido de revestimiento epitelial de forma masiva",
         "Destruir los capilares sobre distendidos por alta presión transpulmonar agudamente"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Alta tensión superficial tiende a jalar de las paredes hacia el centro creando presión hidrostática intersticial muy negativa que succiona líquido el surfactante detiene este edema fisiológico.",
       "hint": "Ayuda a mantener seco el espacio al evitar un vacío hidráulico."
     },
@@ -2947,7 +2947,7 @@
         "Alfa uno antitripsina antiproteasa",
         "Superóxido dismutasa cobre zinc"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "La alfa uno antitripsina es producida en el hígado y patrulla el pulmón inactivando las proteasas liberadas por neutrófilos en agresiones banales protegiendo la matriz elástica pulmonar.",
       "hint": "Escudo proteico biológico contra las tijeras químicas del sistema inmune."
     },
@@ -2960,7 +2960,7 @@
         "Permanece inalterada por mecanismos compensatorios endoteliales pulmonares locales rápidos",
         "Iguala instantáneamente la presión venosa mixta corporal colapsando gradientes"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "La ecuación del gas alveolar establece que la PAO2 es proporcionalmente inversa a la PACO2 si hiperventilas expulsas CO2 dejando más espacio físico de presión para que lo ocupe el oxígeno fresco.",
       "hint": "Más aire entrando menos gas de desecho restando presión."
     },
@@ -2973,7 +2973,7 @@
         "Activación exclusiva del centro cardioinhibidor vagal pontino reflejo",
         "Parálisis neuromuscular despolarizante inducida por dióxido de carbono tisular"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El CO2 alto y la acidosis activan fuertemente el sistema nervioso simpático liberando adrenalina endógena que acelera el corazón e intenta abrir las vías aéreas receptores beta dos para sobrevivir.",
       "hint": "Respuesta fisiológica de alarma general ante la asfixia inminente incontrolable."
     },
@@ -2986,7 +2986,7 @@
         "Unido reversible pero tenazmente a los mismos sitios hemo que normalmente ocuparía el oxígeno carbohemoglobina",
         "Fijado a los grupos sulfhidrilo de la albúmina humana exclusivamente"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "El mecanismo de acción del envenenamiento por CO se basa en su afinidad superior competitiva compitiendo letalmente por el hierro ferroso de la molécula transportadora principal formando carboxihemoglobina.",
       "hint": "Un impostor muy afín que secuestra los taxis de oxígeno."
     },
@@ -2999,7 +2999,7 @@
         "Debe igualar la capacidad vital máxima forzada del paciente cada vez para prevenir cualquier atelectasia parcial",
         "Depende exclusivamente de la presión venosa central medida invasivamente"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Si el volumen corriente programado es menor o igual al espacio muerto todo el aire se queda en tubos y la ventilación alveolar es cero causando asfixia a pesar del movimiento torácico activo visible.",
       "hint": "El soplo de aire debe llegar más allá de las tuberías inútiles."
     },
@@ -3012,7 +3012,7 @@
         "Adelgazamiento del grosor de la membrana facilitando la hiperoxia tisular arterial rápida",
         "Generación de puentes alveolares super vascularizados nuevos neangiogénesis extrema"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "Aunque el pulmón enfisematoso está voluminoso por atrapamiento aéreo está internamente hueco habiendo perdido la arquitectura capilar fina y el área de contacto esencial limitando enormemente la difusión.",
       "hint": "Un saco gigante tiene menos pared interna que millones de burbujitas pequeñas juntas."
     },
@@ -3025,7 +3025,7 @@
         "Se convierte espontáneamente en hemoglobina S falciforme patológica por el frío extremo mantenido",
         "Pierde todo el grupo hemo volviéndose plasma blanco inefectivo transparente al oxígeno disuelto"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Los eritrocitos almacenados pierden sus intermediarios metabólicos como el 2,3 BPG esto incrementa anormalmente su afinidad por el oxígeno volviendo temporalmente ineficiente la transfusión para liberar gas.",
       "hint": "Células viejas que se vuelven tacañas con el gas vital al envejecer en la bolsa."
     },
@@ -3038,7 +3038,7 @@
         "El esfuerzo solo sirve para expeler el espacio muerto nasal superior cartilaginoso rígido",
         "La espiración depende puramente del latido cardíaco torácico transmitido pasivamente"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Superado cierto nivel de presión espiratoria empujar más fuerte solo colapsa más las vías aéreas limitando el flujo máximo creando una envoltura de flujo limitante infranqueable característica fisiológica.",
       "hint": "Soplar más fuerte no saca más aire si la tubería se aplasta por tu propia fuerza exterior."
     },
@@ -3051,7 +3051,7 @@
         "La PO2 se eleva paradójicamente por estasis de flujo capilar venoso prolongado extremo",
         "No hay alteración clínica evidente gracias a la reserva difusiva endotelial global masiva residual"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "El O2 cae y no mejora con O2 extra por mezcla venosa pero el CO2 que es muy difusible no sube porque los quimiorreceptores detectan la hipoxia inducen hiperventilación y lavan el CO2 de los alvéolos sanos sobrantes.",
       "hint": "Cae el gas de entrada que no llega a la sangre pero compensamos botando el gas de desecho por donde aún se puede."
     },
@@ -3064,7 +3064,7 @@
         "Grupo respiratorio dorsal pontino centro neumotáxico interactuando con neuronas medulares inspiratorias",
         "Ganglios basales extrapiramidales"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Las redes neuronales del centro neumotáxico envían impulsos periódicos rítmicos que desactivan físicamente la rampa inspiratoria bulbar marcando el tiempo y volumen de cada respiración autónoma continua.",
       "hint": "El controlador temporal o marcapasos de fin de ciclo en el tronco encefálico superior."
     },
@@ -3077,7 +3077,7 @@
         "Actuar como cámaras de resonancia fonética aligerar el peso craneal y aportar área mucosa de acondicionamiento de aire calentamiento y humidificación accesoria vital",
         "Filtrar exclusivamente bacterias encapsuladas complejas"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Estas cavidades huecas recubiertas de mucosa incrementan la superficie funcional expuesta al flujo aéreo turbulento nasal optimizando la climatización del gas inspirado antes de ingresar al pulmón delicado.",
       "hint": "Habitaciones acondicionadoras que también ayudan a que no te pese tanto la cabeza."
     },
@@ -3090,7 +3090,7 @@
         "Momento de cierre glótico reflejo tusígeno severo incontrolable",
         "Cese completo del flujo sanguíneo pulmonar capilar general"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "En pulmones rígidos porosos sin surfactante SDRA se requiere alta presión inicial para abrir los alvéolos cerrados una vez superada este punto de apertura la distensibilidad mejora visiblemente codo inferior.",
       "hint": "El despegue repentino de múltiples bombitas colapsadas tras un esfuerzo inicial muy duro y pesado."
     },
@@ -3103,7 +3103,7 @@
         "Aportan flujo masivo altamente oxigenado que rige la presión arterial periférica total",
         "No aportan sangre en reposo por estar en Zona 1 absoluta total permanente"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Los ápices sobreventilados e hipoperfundidos tienen sangre hiperoxigenada pero el flujo total apical es tan escaso volumen bajo que no logran revertir la menor oxigenación de la gran cantidad de sangre de las bases subventiladas VQ bajo predominante volumétrico.",
       "hint": "Son las gotas de oro en un balde grande de agua de calidad media, su efecto global se diluye."
     },
@@ -3116,7 +3116,7 @@
         "Carece por completo de actina y miosina funcionales estructurales",
         "Se paraliza por hipercapnia sistémica local directa pura reversible"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El bronquiolo es músculo liso involuntario reactivo a mediadores inflamatorios y autonómicos AMPc produce relajación IP3 calcio produce contracción un mecanismo bioquímico distinto al esquelético de las placas motoras nicotínicas.",
       "hint": "Un sistema lento continuo bioquímico de mensajeros celulares en lugar de cables eléctricos rápidos."
     },
@@ -3129,7 +3129,7 @@
         "Expulsión masiva de volumen residual pulmonar fisiológico base",
         "Generación espontánea de vacío intrapleural mantenido masivo"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El tiempo espiratorio prolongado obstrucción impide vaciar los alvéolos antes de la siguiente orden de inspirar atrapando aire gradualmente lo que hiperinsufla el tórax y aumenta severamente el trabajo respiratorio elástico basal.",
       "hint": "Volver a llenar el vaso antes de terminar de vaciarlo repetidas veces hasta desbordarlo de presión tensa."
     },
@@ -3142,7 +3142,7 @@
         "Destrucción rápida local de fibras nerviosas simpáticas vasoconstrictoras autonómicas",
         "Acumulación excesiva de ácido nítrico local inflamatorio microquímico"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "La célula muscular lisa de la pequeña arteria pulmonar posee sensores internos de O2 que al detectar hipoxia cierran los canales de salida de potasio reteniendo carga positiva que excita a la célula activando la constricción miogénica local útil fisiológica compensatoria.",
       "hint": "La falta de aire cierra una compuerta eléctrica de potasio encendiendo el interruptor de calcio constrictor."
     },
@@ -3155,7 +3155,7 @@
         "Volumen minuto circulante corporal venoso",
         "Capacidad residual inspiratoria espontánea neurológica"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Al detener el flujo de gas se elimina la resistencia viscosa y la presión cae y se estabiliza mostrando la verdadera presión transmural estática alveolar que evalúa la compliance del paciente evitando daño alveolar por barotrauma clínico.",
       "hint": "Medir la fuerza del resorte interno solo cuando el ventilador detiene el soplado dinámico de viento."
     },
@@ -3168,7 +3168,7 @@
         "La metahemoglobina convierte el oxígeno masivamente en monóxido de carbono",
         "No existe diferencia ambas pueden ser usadas por células periféricas sin problemas sintomáticos o clínicos graves"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El hierro oxidado carece del electrón necesario para unirse reversiblemente al O2 actuando como molécula muerta para el transporte y empeorando la descarga del poco oxígeno remanente por interacciones alostéricas tensas tóxicas.",
       "hint": "Hierro oxidado como óxido inútil no agarra el gas vital y además no deja que las otras subunidades lo suelten."
     },
@@ -3181,7 +3181,7 @@
         "Músculos intercostales espinales de retroalimentación",
         "Quimiorreceptores centrales bulbares hiper estimulados por pH bajo crónico sin CO2 extra"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "La congestión pulmonar persistente estimula las terminales amielínicas C en el parénquima profundo dictando al bulbo una respiración superficial rápida ineficiente pero defensiva característica del fallo cardíaco descompensado sin retención gaseosa grave inicial.",
       "hint": "Sensores de líquido cerca del capilar que mandan a respirar cortito para evitar dolor de estiramiento húmedo."
     },
@@ -3194,7 +3194,7 @@
         "Alta tensión alveolar placentaria destructiva surfactante amniótico",
         "Toxicidad por alto oxígeno materno asfixiante venoso"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "La transferencia de líquido a líquido a través de vellosidades gruesas con un PO2 materno de 50 en la intervellosa resulta en un feto que recibe sangre de la vena umbilical con PO2 de solo treinta milímetros sobrellevándolo gracias a la extrema afinidad de la HbF y alto gasto cardíaco.",
       "hint": "Barrera gruesa y poca diferencia de empuje gaseoso logran un ambiente natural que parece de montaña alta extrema."
     },
@@ -3207,7 +3207,7 @@
         "Alcalosis metabólica severa con destrucción de hemoglobina intravascular masiva y daño medular",
         "No se altera el equilibrio por homeostasis renal bicarbonatada inmediata de dos minutos"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "Lavar el CO2 bruscamente eleva el pH la sangre alcalina ioniza los amortiguadores proteicos que se unen ávidamente al calcio iónico la falta de calcio excitabiliza los nervios causando hormigueos y contracciones tetánicas en manos.",
       "hint": "Baja el ácido sube el pH la proteína captura el mineral relajante muscular y los nervios de las manos se activan solos."
     },
@@ -3220,7 +3220,7 @@
         "Ventilación con presión positiva intermitente o presión positiva continua al final de la espiración PEEP para forzar la expansión colateral y superar la presión de apertura de los alvéolos pegados tensionados sin moco directo estructural",
         "Extirpación quirúrgica del tejido pulmonar basal por lóbectomia urgente en cama"
       ],
-      "ans": 3,
+      "ans": 2,
       "just": "Aplicar presión positiva estira el árbol bronquial y usa canales de ventilación colateral insuflando presión detrás del tapón o simplemente venciendo el colapso gravitacional recuperando área funcional difusiva crucialmente perdida.",
       "hint": "Usar fuerza neumática externa controlada para empujar y despegar las paredes de las bolsas de aire caídas."
     },
@@ -3233,7 +3233,7 @@
         "La anhidrasa carbónica alveolar elimina las diferencias disociando iones al exterior celular directamente",
         "El cuerpo humano produce cero CO2 en estado de relajación total basal extrema"
       ],
-      "ans": 1,
+      "ans": 0,
       "just": "La extrema solubilidad del gas permite un cruce veloz instantáneo nivelando completamente el gas del saco aéreo y la sangre oxigenada resultante haciendo que la medición arterial sea un reflejo espejo confiable del gas alveolar.",
       "hint": "Difusión flash perfecta sin resistencia química apreciable iguala los dos ambientes."
     },
@@ -3246,7 +3246,7 @@
         "El volumen residual absoluto aéreo estancado espiratorio forzado del asma crónico obstructivo senil",
         "La cavidad pleural potencial con vacío intermedio fluido de fricción nulo linfático cerrado pleural"
       ],
-      "ans": 2,
+      "ans": 1,
       "just": "El lecho capilar pulmonar de reposo tiene extensas redes de microvasos sin sangre fluyendo disponibles como amortiguadores de resistencia que se abren pasivamente al recibir presión o volumen resguardando al ventrículo derecho de falla hipertensiva aguda.",
       "hint": "Tuberías de reserva plegadas y guardadas esperando ser rellenadas cuando la bomba aprieta fuerte su envío fluido corporal general."
     }
