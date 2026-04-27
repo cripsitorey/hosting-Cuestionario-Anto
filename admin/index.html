@@ -2,26 +2,33 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin - StudyHub</title>
     <style>
-        body { font-family: system-ui; padding: 20px; background: #111; color: white; }
-        .card { background: #222; padding: 20px; border-radius: 8px; max-width: 600px; margin: 0 auto; }
-        input, button { padding: 10px; margin: 5px 0; width: 100%; box-sizing: border-box; }
-        button { background: #4CAF50; color: white; border: none; cursor: pointer; }
-        .user-item { display: flex; justify-content: space-between; padding: 10px; border-bottom: 1px solid #444; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 40px; background: #0f172a; color: white; display: flex; justify-content: center; }
+        .card { background: #1e293b; padding: 30px; border-radius: 12px; width: 100%; max-width: 500px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); }
+        h2 { margin-top: 0; color: #38bdf8; }
+        input { padding: 12px; margin: 10px 0; width: 100%; box-sizing: border-box; border-radius: 6px; border: 1px solid #334155; background: #0f172a; color: white; }
+        button { background: #0284c7; color: white; border: none; padding: 12px; border-radius: 6px; width: 100%; cursor: pointer; font-weight: bold; transition: background 0.2s; }
+        button:hover { background: #0369a1; }
+        .user-item { display: flex; justify-content: space-between; align-items: center; padding: 12px; border-bottom: 1px solid #334155; }
+        .status-badge { font-size: 0.8rem; padding: 2px 8px; border-radius: 10px; background: #991b1b; }
     </style>
 </head>
 <body>
     <div class="card" id="loginView">
-        <h2>Admin Login</h2>
-        <input type="email" id="email" placeholder="Email">
+        <h2>Panel de Control</h2>
+        <p>Ingresa como administrador</p>
+        <input type="email" id="email" placeholder="Correo electrónico">
         <input type="password" id="pass" placeholder="Contraseña">
-        <button onclick="login()">Entrar</button>
+        <button onclick="login()">Iniciar Sesión</button>
     </div>
 
     <div class="card" id="dashView" style="display:none;">
-        <h2>Usuarios Inactivos (Esperando pago)</h2>
+        <h2>Usuarios Pendientes</h2>
+        <p>Activa a los estudiantes que ya realizaron su pago:</p>
         <div id="usersList"></div>
+        <button onclick="location.reload()" style="margin-top:20px; background:#475569;">Actualizar Lista</button>
     </div>
 
     <script>
@@ -29,22 +36,27 @@
         let token = '';
 
         async function login() {
-            const res = await fetch(`${API_URL}/api/auth/login`, {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({
-                    email: document.getElementById('email').value,
-                    password: document.getElementById('pass').value
-                })
-            });
-            const data = await res.json();
-            if(data.token) {
-                token = data.token;
-                document.getElementById('loginView').style.display = 'none';
-                document.getElementById('dashView').style.display = 'block';
-                loadUsers();
-            } else {
-                alert('Credenciales incorrectas');
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('pass').value;
+            
+            try {
+                const res = await fetch(`${API_URL}/api/auth/login`, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({ email, password })
+                });
+                const data = await res.json();
+                
+                if(data.token) {
+                    token = data.token;
+                    document.getElementById('loginView').style.display = 'none';
+                    document.getElementById('dashView').style.display = 'block';
+                    loadUsers();
+                } else {
+                    alert('Acceso denegado: Verifica tus credenciales');
+                }
+            } catch (e) {
+                alert('Error al conectar con el servidor');
             }
         }
 
@@ -56,12 +68,15 @@
             
             const html = users.filter(u => !u.is_active).map(u => `
                 <div class="user-item">
-                    <span>${u.name} (${u.email})</span>
-                    <button style="width:auto; padding:5px 10px;" onclick="activate(${u.id})">Activar Acceso</button>
+                    <div>
+                        <strong>${u.name}</strong><br>
+                        <small>${u.email}</small>
+                    </div>
+                    <button style="width:auto; padding:6px 12px;" onclick="activate(${u.id})">Activar</button>
                 </div>
             `).join('');
             
-            document.getElementById('usersList').innerHTML = html || '<p>No hay usuarios pendientes.</p>';
+            document.getElementById('usersList').innerHTML = html || '<p>No hay usuarios esperando activación.</p>';
         }
 
         async function activate(id) {
