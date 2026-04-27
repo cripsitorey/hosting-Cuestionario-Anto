@@ -4,7 +4,7 @@
 // en medicina/index.html e ingenieria/index.html
 // ============================================================
 
-const API_URL = 'https://api.rondira.com'; // Cambia por tu subdominio del backend en Coolify
+const API_URL = 'http://colada.rondira.com'; 
 
 const Auth = {
   getToken: () => localStorage.getItem('sh_token'),
