@@ -4,7 +4,7 @@
 // en medicina/index.html e ingenieria/index.html
 // ============================================================
 
-const API_URL = 'http://colada.rondira.com'; 
+const API_URL = 'https://colada.rondira.com'; 
 
 const Auth = {
   getToken: () => localStorage.getItem('sh_token'),
