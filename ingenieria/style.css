@@ -408,3 +408,23 @@ input[type=number] { -moz-appearance: textfield; appearance: textfield; }
     .tool-label { font-size: 12px; }
     .action-btn { padding: 12px 14px; font-size: 13px; }
 }
+
+/* Asegúrate de que los controles tengan su propio espacio */
+.controles-quiz {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 30px; /* Esto empuja la pregunta hacia abajo */
+    padding: 20px;
+    background: rgba(30, 41, 59, 0.5);
+    border-radius: 12px;
+}
+
+/* Evita que los sliders se encimen */
+.modo-simulacro, .presion-tiempo {
+    position: relative; /* Cambia esto si estaba en absolute */
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
