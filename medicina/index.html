@@ -1,134 +1,135 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MedQuest Pro v2 · Entrenamiento Clínico</title>
-    <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@400;500&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <script src="/assets/auth.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedQuest Pro v2 · Entrenamiento Clínico</title>
+    <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@400;500&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="glow-bg"></div>
 
 <button class="exit-zen-btn" onclick="toggleFocusMode()">
-    <span>ESC</span> · SALIR DEL MODO ENFOQUE
+    <span>ESC</span> · SALIR DEL MODO ENFOQUE
 </button>
 
 <header class="navbar" id="navbar">
-    <div class="nav-container">
-        <div class="nav-brand">
-            <span class="brand-tag">UDLA · MEDICINA</span>
-            <h1 class="brand-title">CARDIO<span>&</span>RESP</h1>
-        </div>
-        
-        <div class="nav-stats">
-            <div class="timer-display" id="timerDisplay" style="display: none;">0:00</div>
-            <div class="stat-pill">
-                <span class="pill-label">PUNTAJE</span>
-                <span class="pill-value" id="scoreDisplay">0</span>
-            </div>
-            <div class="nav-progress">
-                <div class="progress-info">
-                    <span id="progressNum">0</span>/<span id="totalNum">0</span>
-                </div>
-                <div class="progress-bar-container">
-                    <div class="progress-bar-fill" id="progressBar"></div>
-                </div>
-            </div>
-        </div>
+    <div class="nav-container">
+        <div class="nav-brand">
+            <span class="brand-tag">UDLA · MEDICINA</span>
+            <h1 class="brand-title">CARDIO<span>&</span>RESP</h1>
+        </div>
+        
+        <div class="nav-stats">
+            <div class="timer-display" id="timerDisplay" style="display: none;">0:00</div>
+            <div class="stat-pill">
+                <span class="pill-label">PUNTAJE</span>
+                <span class="pill-value" id="scoreDisplay">0</span>
+            </div>
+            <div class="nav-progress">
+                <div class="progress-info">
+                    <span id="progressNum">0</span>/<span id="totalNum">0</span>
+                </div>
+                <div class="progress-bar-container">
+                    <div class="progress-bar-fill" id="progressBar"></div>
+                </div>
+            </div>
+        </div>
 
-        <a href="../" class="back-btn">← HUB</a>
-    </div>
+        <a href="../" class="back-btn">← HUB</a>
+    </div>
 </header>
 
 <main class="content-wrapper">
-    <aside class="control-panel" id="sidebar">
-        <div class="panel-section">
-            <h3 class="section-title">DOMINIO POR ÁREA</h3>
-            <div id="masteryIndex" class="mastery-container"></div>
-        </div>
+    <aside class="control-panel" id="sidebar">
+        <div class="panel-section">
+            <h3 class="section-title">DOMINIO POR ÁREA</h3>
+            <div id="masteryIndex" class="mastery-container"></div>
+        </div>
 
-        <details class="panel-section" open>
-            <summary class="section-title">CATEGORÍAS <span class="toggle-icon">▼</span></summary>
-            <div class="filter-grid" style="margin-top: 15px;">
-                <button class="filter-btn active" onclick="filterCat('all', this)">Todas</button>
-                <button class="filter-btn" onclick="filterCat('cardiaco', this)">Cardíaco</button>
-                <button class="filter-btn" onclick="filterCat('respiratorio', this)">Respiratorio</button>
-                <button class="filter-btn" onclick="filterCat('calculo', this)">Cálculos</button>
-                <button class="filter-btn" onclick="filterCat('radiologia', this)">Radiología</button>
-                <button class="filter-btn" onclick="filterCat('ekg', this)">EKG</button>
-                <button class="filter-btn" onclick="filterCat('fisiologia', this)">Fisiolgía</button>
-            </div>
-        </details>
+        <details class="panel-section" open>
+            <summary class="section-title">CATEGORÍAS <span class="toggle-icon">▼</span></summary>
+            <div class="filter-grid" style="margin-top: 15px;">
+                <button class="filter-btn active" onclick="filterCat('all', this)">Todas</button>
+                <button class="filter-btn" onclick="filterCat('cardiaco', this)">Cardíaco</button>
+                <button class="filter-btn" onclick="filterCat('respiratorio', this)">Respiratorio</button>
+                <button class="filter-btn" onclick="filterCat('calculo', this)">Cálculos</button>
+                <button class="filter-btn" onclick="filterCat('radiologia', this)">Radiología</button>
+                <button class="filter-btn" onclick="filterCat('ekg', this)">EKG</button>
+                <button class="filter-btn" onclick="filterCat('fisiologia', this)">Fisiolgía</button>
+            </div>
+        </details>
 
-        <details class="panel-section" open>
-            <summary class="section-title">HERRAMIENTAS <span class="toggle-icon">▼</span></summary>
-            <div class="action-list" style="margin-top: 15px;">
-                <label class="tool-switch">
-                    <input type="checkbox" id="examModeToggle" onchange="toggleExamMode()">
-                    <span class="slider"></span>
-                    <span class="tool-label">Modo Simulacro</span>
-                </label>
-                
-                <div style="display: flex; flex-direction: column; gap: 8px;">
-                    <label class="tool-switch">
-                        <input type="checkbox" id="timerToggle" onchange="toggleTimerMode()">
-                        <span class="slider"></span>
-                        <span class="tool-label">Presión de Tiempo</span>
-                    </label>
-                    <div id="timerConfig" style="display: none; padding-left: 46px; margin-bottom: 5px;">
-                        <label style="font-size: 11px; color: var(--muted); display: block; margin-bottom: 6px;">Segundos por pregunta</label>
-                        <input type="number" id="customTimeInput" value="45" min="5" max="300" style="width: 100%; background: rgba(255,255,255,0.02); border: 1px solid var(--border); color: var(--text); padding: 10px; border-radius: 10px; font-family: 'DM Mono', monospace; font-size: 13px;" onchange="updateTimerValue(); restart();">
-                    </div>
-                </div>
+        <details class="panel-section" open>
+            <summary class="section-title">HERRAMIENTAS <span class="toggle-icon">▼</span></summary>
+            <div class="action-list" style="margin-top: 15px;">
+                <label class="tool-switch">
+                    <input type="checkbox" id="examModeToggle" onchange="toggleExamMode()">
+                    <span class="slider"></span>
+                    <span class="tool-label">Modo Simulacro</span>
+                </label>
+                
+                <div style="display: flex; flex-direction: column; gap: 8px;">
+                    <label class="tool-switch">
+                        <input type="checkbox" id="timerToggle" onchange="toggleTimerMode()">
+                        <span class="slider"></span>
+                        <span class="tool-label">Presión de Tiempo</span>
+                    </label>
+                    <div id="timerConfig" style="display: none; padding-left: 46px; margin-bottom: 5px;">
+                        <label style="font-size: 11px; color: var(--muted); display: block; margin-bottom: 6px;">Segundos por pregunta</label>
+                        <input type="number" id="customTimeInput" value="45" min="5" max="300" style="width: 100%; background: rgba(255,255,255,0.02); border: 1px solid var(--border); color: var(--text); padding: 10px; border-radius: 10px; font-family: 'DM Mono', monospace; font-size: 13px;" onchange="updateTimerValue(); restart();">
+                    </div>
+                </div>
 
-                <button class="action-btn" onclick="toggleFocusMode()">
-                    <i>👁️</i> Modo Enfoque (Zen)
-                </button>
-                
-                <button class="action-btn" onclick="manualShuffle()">
-                    <i>🔀</i> Mezclar Todo
-                </button>
-                
-                <button class="action-btn review" id="reviewBtn" onclick="reviewErrors(this)" style="display: none;">
-                    <i>⚠️</i> Errores (<span id="errorCount">0</span>)
-                </button>
-            </div>
-        </details>
-    </aside>
+                <button class="action-btn" onclick="toggleFocusMode()">
+                    <i>👁️</i> Modo Enfoque (Zen)
+                </button>
+                
+                <button class="action-btn" onclick="manualShuffle()">
+                    <i>🔀</i> Mezclar Todo
+                </button>
+                
+                <button class="action-btn review" id="reviewBtn" onclick="reviewErrors(this)" style="display: none;">
+                    <i>⚠️</i> Errores (<span id="errorCount">0</span>)
+                </button>
+            </div>
+        </details>
+    </aside>
 
-    <section class="quiz-area">
-        <div id="questionsContainer"></div>
+    <section class="quiz-area">
+        <div id="questionsContainer"></div>
 
-        <button id="finishBtn" class="btn-primary" onclick="showSummary()" style="display: none; margin: 40px auto; width: 100%;">FINALIZAR SESIÓN</button>
+        <button id="finishBtn" class="btn-primary" onclick="showSummary()" style="display: none; margin: 40px auto; width: 100%;">FINALIZAR SESIÓN</button>
 
-        <div class="summary" id="summary">
-            <div class="summary-header">
-                <span class="summary-emoji" id="summaryIcon">🏆</span>
-                <h2 id="summaryTitle">Análisis Completado</h2>
-                <div class="diagnostic-report" id="diagnosticReport"></div>
-            </div>
-            <div class="summary-grid">
-                <div class="result-card">
-                    <span class="res-val" id="statCorrect">0</span>
-                    <span class="res-lab">CORRECTAS</span>
-                </div>
-                <div class="result-card error">
-                    <span class="res-val" id="statWrong">0</span>
-                    <span class="res-lab">ERRORES</span>
-                </div>
-                <div class="result-card accent">
-                    <span class="res-val" id="statPct">0%</span>
-                    <span class="res-lab">PRECISIÓN</span>
-                </div>
-            </div>
-            <div class="summary-actions">
-                <button class="btn-primary" onclick="restart()">NUEVA SESIÓN</button>
-                <button class="btn-secondary" onclick="exportSession()">EXPORTAR ANALÍTICA</button>
-            </div>
-        </div>
-    </section>
+        <div class="summary" id="summary">
+            <div class="summary-header">
+                <span class="summary-emoji" id="summaryIcon">🏆</span>
+                <h2 id="summaryTitle">Análisis Completado</h2>
+                <div class="diagnostic-report" id="diagnosticReport"></div>
+            </div>
+            <div class="summary-grid">
+                <div class="result-card">
+                    <span class="res-val" id="statCorrect">0</span>
+                    <span class="res-lab">CORRECTAS</span>
+                </div>
+                <div class="result-card error">
+                    <span class="res-val" id="statWrong">0</span>
+                    <span class="res-lab">ERRORES</span>
+                </div>
+                <div class="result-card accent">
+                    <span class="res-val" id="statPct">0%</span>
+                    <span class="res-lab">PRECISIÓN</span>
+                </div>
+            </div>
+            <div class="summary-actions">
+                <button class="btn-primary" onclick="restart()">NUEVA SESIÓN</button>
+                <button class="btn-secondary" onclick="exportSession()">EXPORTAR ANALÍTICA</button>
+            </div>
+        </div>
+    </section>
 </main>
 
 <script src="script.js"></script>
