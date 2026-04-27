@@ -1,11 +1,76 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Panel de Administración · Cuestionario</title>
+    <meta charset="UTF-8">
+    <title>Admin - StudyHub</title>
+    <style>
+        body { font-family: system-ui; padding: 20px; background: #111; color: white; }
+        .card { background: #222; padding: 20px; border-radius: 8px; max-width: 600px; margin: 0 auto; }
+        input, button { padding: 10px; margin: 5px 0; width: 100%; box-sizing: border-box; }
+        button { background: #4CAF50; color: white; border: none; cursor: pointer; }
+        .user-item { display: flex; justify-content: space-between; padding: 10px; border-bottom: 1px solid #444; }
+    </style>
 </head>
 <body>
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <div class="card" id="loginView">
+        <h2>Admin Login</h2>
+        <input type="email" id="email" placeholder="Email">
+        <input type="password" id="pass" placeholder="Contraseña">
+        <button onclick="login()">Entrar</button>
+    </div>
+
+    <div class="card" id="dashView" style="display:none;">
+        <h2>Usuarios Inactivos (Esperando pago)</h2>
+        <div id="usersList"></div>
+    </div>
+
+    <script>
+        const API_URL = 'https://api.rondira.com';
+        let token = '';
+
+        async function login() {
+            const res = await fetch(`${API_URL}/api/auth/login`, {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({
+                    email: document.getElementById('email').value,
+                    password: document.getElementById('pass').value
+                })
+            });
+            const data = await res.json();
+            if(data.token) {
+                token = data.token;
+                document.getElementById('loginView').style.display = 'none';
+                document.getElementById('dashView').style.display = 'block';
+                loadUsers();
+            } else {
+                alert('Credenciales incorrectas');
+            }
+        }
+
+        async function loadUsers() {
+            const res = await fetch(`${API_URL}/api/admin/users`, {
+                headers: {'Authorization': `Bearer ${token}`}
+            });
+            const users = await res.json();
+            
+            const html = users.filter(u => !u.is_active).map(u => `
+                <div class="user-item">
+                    <span>${u.name} (${u.email})</span>
+                    <button style="width:auto; padding:5px 10px;" onclick="activate(${u.id})">Activar Acceso</button>
+                </div>
+            `).join('');
+            
+            document.getElementById('usersList').innerHTML = html || '<p>No hay usuarios pendientes.</p>';
+        }
+
+        async function activate(id) {
+            await fetch(`${API_URL}/api/admin/users/${id}/activate`, {
+                method: 'PUT',
+                headers: {'Authorization': `Bearer ${token}`}
+            });
+            loadUsers();
+        }
+    </script>
 </body>
 </html>
